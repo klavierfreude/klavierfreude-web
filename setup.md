@@ -11,6 +11,10 @@ On Linux:
    * After this we should have ruby 3.2.2 and gem 3.4.17
 * `gem install bundler jekyll`  - to install Jekyll
 
+On Windows:
+
+* https://jekyllrb.com/docs/installation/windows/
+
 After this a new Jekyll project dir can get created and used using: 
 * `jekyll new projectdir`
 * update Gemfile, _config.yml etc
