@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page
-#header:
-#  image_fullwidth: header_unsplash_12.jpg
+header:
+  image_fullwidth: /images/header.png
 
 permalink: /index.html
 #

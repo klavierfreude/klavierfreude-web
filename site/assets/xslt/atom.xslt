@@ -271,12 +271,13 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://klavierfreude.at/" title="Verein Klavierfreude Wien – [SLOGAN]">
-				<img src="https://klavierfreude.at/assets/img/logo.png" alt="Verein Klavierfreude Wien – [SLOGAN]">
+			<a id="logo" href="https://klavierfreude.at/" >
+				<img src="https://klavierfreude.at/assets/img/logo.png">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
 
 
 
