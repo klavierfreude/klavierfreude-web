@@ -1,0 +1,36 @@
+- title: Klavierfreude
+  url: "/"
+  side: left
+
+- title: Veranstaltungen
+  url: "/#Veranstaltungen"
+  side: left
+
+#- title: "Templates"
+#  url: "/design/"
+#  side: left
+#  dropdown:
+#  - title: "Grid & Colors"
+#    url: "/design/grid/"
+#  - title: "Typography"
+#    url: "/design/typography/typography/"
+
+- title: Mitgliedschaft
+  url: "/#Mitgliedschaft"
+  side: left
+
+- title: Impressum
+  url: "/impressum/"
+  side: left
+
+- title: Kontakt
+  url: "/kontakt/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+#- title: "Kontakt"
+#  url: "/contact/"
+#  side: right

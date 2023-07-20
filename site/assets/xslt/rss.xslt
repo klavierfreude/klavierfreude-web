@@ -1,9 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-	<meta charset="utf-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
+<xsl:output method="html" encoding="utf-8" />
+<xsl:template match="/rss">
+	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
+	<html>
+	<head>
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Verein Klavierfreude Wien</title>
+	<title>RSS Feed (Styled)</title>
 
     <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
 
@@ -32,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://klavierfreude.at/index.html">
+	<link rel="canonical" href="https://klavierfreude.at/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Verein Klavierfreude Wien">
+	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Home page of the Verein Klavierfreude Wien">
-	<meta property="og:url" content="https://klavierfreude.at/index.html">
+	<meta property="og:url" content="https://klavierfreude.at/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Verein Klavierfreude Wien">
@@ -51,7 +56,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Verein Klavierfreude Wien">
+	<meta name="twitter:title" content="RSS Feed (Styled)">
 	<meta name="twitter:description" content="Home page of the Verein Klavierfreude Wien">
 	
 	
@@ -93,10 +98,11 @@
 	
 
 
-</head>
-<body id="top-of-page" class="post">
-	
-	
+		]]></xsl:text>
+	</head>
+	<body id="top-of-page">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
@@ -118,7 +124,7 @@
 
             
             
-              <li class="active"><a  href="https://klavierfreude.at/">Klavierfreude</a></li>
+              <li><a  href="https://klavierfreude.at/">Klavierfreude</a></li>
               <li class="divider"></li>
 
             
@@ -261,9 +267,7 @@
   </nav>
 </div><!-- /#navigation -->
 
-	
-
-	
+		
 
 <div id="masthead-no-image-header">
 	<div class="row">
@@ -282,54 +286,57 @@
 
 
 
-	<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				
-
-				<div itemprop="name">
-					
-					<h1></h1>
-				</div>
-			</header>
+		
 
 
-			
-
-			<div itemprop="articleSection">
-			<h2 id="über-uns">Über uns</h2>
-
-<p>Du begeisterst dich für klassische Klaviermusik?</p>
-
-<p>Spielst du Klavier oder bist du sogar professionelle<em>r Pianist</em>in?</p>
-
-<p>Wünscht du dir, dabei nicht mehr alleine zu musizieren?</p>
-
-<p>Herzlich Willkommen bei KlavierFreude Wien! Wir sind eine gemeinsame Initiative von Profi- und Amateurpianist<em>innen, die sich zum Ziel gesetzt hat, Klaviermusiker</em>innen untereinander zu vernetzen. Wir treffen uns regelmäßig, um einander kennenzulernen, zu plaudern, uns untereinander auszutauschen, und natürlich zusammen zu spielen. Außerdem möchten wir eine Plattform bieten, um gemeinsam Veranstaltungen und Projekte zu organisieren - besonders durch Konzerte an informellen Orten möchten wir sowohl Pianist*innen die Gelegenheit zum Spielen ermöglichen, also auch einem möglichst breiten Publikum klassische Musik in lockerer Atmosphäre vorstellen. Wir sind offen für deine Ideen!
-Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns darauf, dich kennenzulernen.</p>
-
-<h2 id="veranstaltungen-">Veranstaltungen <a name="Veranstaltungen"></a></h2>
-
-<h2 id="mitgliedschaft-">Mitgliedschaft <a name="Mitgliedschaft"></a></h2>
-
-			</div>
-
-			
-
-			
-		</article>
-	</div><!-- /.medium-8.columns -->
+<div class="alert-box warning text-center"><p>This <a href="https://en.wikipedia.org/wiki/RSS" target="_blank">RSS feed</a> is meant to be used by <a href="https://en.wikipedia.org/wiki/Template:Aggregators" target="_blank">RSS reader applications and websites</a>.</p>
+</div>
 
 
-	
 
+		]]></xsl:text>
+		<header class="t30 row">
+	<p class="subheadline"><xsl:value-of select="channel/description" disable-output-escaping="yes" /></p>
+	<h1>
+		<xsl:element name="a">
+			<xsl:attribute name="href">
+				<xsl:value-of select="channel/link" />
+			</xsl:attribute>
+			<xsl:value-of select="channel/title" disable-output-escaping="yes" />
+		</xsl:element>
+	</h1>
+</header>
+<ul class="accordion row" data-accordion="">
+	<xsl:for-each select="channel/item">
+		<li class="accordion-navigation">
+			<xsl:variable name="slug-id">
+				<xsl:call-template name="slugify">
+					<xsl:with-param name="text" select="guid" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:element name="a">
+				<xsl:attribute name="href"><xsl:value-of select="concat('#', $slug-id)"/></xsl:attribute>
+				<xsl:value-of select="title"/>
+				<br/>
+				<small><xsl:value-of select="pubDate"/></small>
+			</xsl:element>
+			<xsl:element name="div">
+				<xsl:attribute name="id"><xsl:value-of select="$slug-id"/></xsl:attribute>
+				<xsl:attribute name="class">content</xsl:attribute>
+				<h1>
+					<xsl:element name="a">
+						<xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
+						<xsl:value-of select="title"/>
+					</xsl:element>
+				</h1>
+				<xsl:value-of select="description" disable-output-escaping="yes" />
+			</xsl:element>
+		</li>
+	</xsl:for-each>
+</ul>
 
-	
-</div><!-- /.row -->
-
-
-	    <div id="up-to-top" class="row">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		    <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
         <a class="iconfont" href="#top-of-page">&#xf108;</a>
       </div><!-- /.small-12.columns -->
@@ -362,8 +369,7 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
       </div><!-- /#subfooter -->
     </footer>
 
-
-	
+		
 
 
 <script src="https://klavierfreude.at/assets/js/javascript.min.js"></script>
@@ -379,6 +385,18 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
 
 
 
-</body>
-</html>
-
+		]]></xsl:text>
+	</body>
+	</html>
+</xsl:template>
+<xsl:template name="slugify">
+	<xsl:param name="text" select="''" />
+	<xsl:variable name="dodgyChars" select="' ,.#_-!?*:;=+|&amp;/\\'" />
+	<xsl:variable name="replacementChar" select="'-----------------'" />
+	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	<xsl:variable name="lowercased"><xsl:value-of select="translate( $text, $uppercase, $lowercase )" /></xsl:variable>
+	<xsl:variable name="escaped"><xsl:value-of select="translate( $lowercased, $dodgyChars, $replacementChar )" /></xsl:variable>
+	<xsl:value-of select="$escaped" />
+</xsl:template>
+</xsl:stylesheet>

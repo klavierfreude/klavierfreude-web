@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Verein Klavierfreude Wien</title>
+	<title>Search</title>
 
     <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
 
@@ -32,13 +32,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://klavierfreude.at/index.html">
+	<link rel="canonical" href="https://klavierfreude.at/search/">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Verein Klavierfreude Wien">
+	<meta property="og:title" content="Search">
 	<meta property="og:description" content="Home page of the Verein Klavierfreude Wien">
-	<meta property="og:url" content="https://klavierfreude.at/index.html">
+	<meta property="og:url" content="https://klavierfreude.at/search/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Verein Klavierfreude Wien">
@@ -51,7 +51,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Verein Klavierfreude Wien">
+	<meta name="twitter:title" content="Search">
 	<meta name="twitter:description" content="Home page of the Verein Klavierfreude Wien">
 	
 	
@@ -118,7 +118,7 @@
 
             
             
-              <li class="active"><a  href="https://klavierfreude.at/">Klavierfreude</a></li>
+              <li><a  href="https://klavierfreude.at/">Klavierfreude</a></li>
               <li class="divider"></li>
 
             
@@ -248,7 +248,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://klavierfreude.at/search/">Search</a></li>
+              <li class="active"><a  href="https://klavierfreude.at/search/">Search</a></li>
 
             
             
@@ -290,7 +290,7 @@
 
 				<div itemprop="name">
 					
-					<h1></h1>
+					<h1>Search</h1>
 				</div>
 			</header>
 
@@ -298,20 +298,22 @@
 			
 
 			<div itemprop="articleSection">
-			<h2 id="über-uns">Über uns</h2>
+			
+<script language="Javascript" type="text/javascript">
+	function google_search() {
+		var query = document.getElementById("google-search").value;
+		window.open("https://www.google.com/search?q=" + query + "+site:" + "https%3A%2F%2Fklavierfreude.at%2F");
+	}
+</script>
 
-<p>Du begeisterst dich für klassische Klaviermusik?</p>
+<form id="search" onsubmit="google_search(); return false;">
+	<input type="text" id="google-search" placeholder="Enter search term and hit enter" />
+</form>
+<noscript>
+	Search <a href="https://www.google.com/search?q=site:https%3A%2F%2Fklavierfreude.at%2F" target="_blank">Google</a> for:
+	<pre><code>search-term site:https://klavierfreude.at/</code></pre>
+</noscript>
 
-<p>Spielst du Klavier oder bist du sogar professionelle<em>r Pianist</em>in?</p>
-
-<p>Wünscht du dir, dabei nicht mehr alleine zu musizieren?</p>
-
-<p>Herzlich Willkommen bei KlavierFreude Wien! Wir sind eine gemeinsame Initiative von Profi- und Amateurpianist<em>innen, die sich zum Ziel gesetzt hat, Klaviermusiker</em>innen untereinander zu vernetzen. Wir treffen uns regelmäßig, um einander kennenzulernen, zu plaudern, uns untereinander auszutauschen, und natürlich zusammen zu spielen. Außerdem möchten wir eine Plattform bieten, um gemeinsam Veranstaltungen und Projekte zu organisieren - besonders durch Konzerte an informellen Orten möchten wir sowohl Pianist*innen die Gelegenheit zum Spielen ermöglichen, also auch einem möglichst breiten Publikum klassische Musik in lockerer Atmosphäre vorstellen. Wir sind offen für deine Ideen!
-Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns darauf, dich kennenzulernen.</p>
-
-<h2 id="veranstaltungen-">Veranstaltungen <a name="Veranstaltungen"></a></h2>
-
-<h2 id="mitgliedschaft-">Mitgliedschaft <a name="Mitgliedschaft"></a></h2>
 
 			</div>
 

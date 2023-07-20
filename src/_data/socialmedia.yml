@@ -1,0 +1,19 @@
+- name: YouTube
+  url: http://www.youtube.com/@klavierfreude
+  class: icon-youtube
+  title: "Klavierfreude Videos"
+
+- name: Twitter
+  url: http://twitter.com/@klavierfreude
+  class: icon-twitter
+  title: "Klavierfreude auf Twitter"
+
+- name: Facebook
+  url: https://www.facebook.com/klavierfreudewien
+  class: icon-facebook
+  title: "Klavierfreude auf Facebook"
+
+- name: Instagram
+  url: https://www.instagram.com/klavierfreudewien/
+  class: icon-instagram
+  title: "Klavierfreude auf Instagram"
