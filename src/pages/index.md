@@ -36,6 +36,7 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
 
 ## Veranstaltungen <a name="Veranstaltungen"/>
 
+* <a href="/veranstaltungen/klavierabend-2023-09-25/">2023-09-25 Klavierabend</a> 
 
 ## Mitgliedschaft <a name="Mitgliedschaft"/>
 
