@@ -11,10 +11,10 @@
 title: 'Verein Klavierfreude Wien'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-# slogan: ''
+slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Home page of the Verein Klavierfreude Wien'
+description: 'Home page des Vereins Klavierfreude Wien'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: ''
@@ -40,8 +40,6 @@ improve_content: ''
 #
 urlimg: ''
 
-
-# Logo size is 600x80 pixels
 logo: "logo.png"
 
 # Plugins
@@ -80,7 +78,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'de'
 
 
 # Used › default.html front-matter and compress.html
@@ -125,18 +123,6 @@ defaults:
 
 
 
-#       _   __            _             __  _
-#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
-#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
-#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
-#                       /____/
-#
-#  Open _data/navigation.yml to adjust the left and right topbar navigation
-#
-
-
-
 #     _____ __________
 #    / ___// ____/ __ \
 #    \__ \/ __/ / / / /
@@ -166,8 +152,8 @@ favicon-32x32                        : 'favicon32.png'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale                            : 'en_EN'
+og_image                             : 'https://klavierfreude.at/assets/img/logo.png'
+og_locale                            : 'de_DE'
 og_type                              : 'website'
 
 
@@ -181,20 +167,9 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : klavierfreude
+    facebook  : klavierfreudewien
 
-
-#        ____  _
-#       / __ \(_)________ ___  _______
-#      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  )
-#    /_____/_/____/\__, /\__,_/____/
-#                    /_/
-#
-# used in _includes/comments
-
-# disqus_shortname: 
 
 
 #      _____
@@ -220,45 +195,6 @@ sass:
 
 # google_analytics_tracking_id:
 
-
-
-#   _                 _     _
-#  | |_ __ ___      _| | __| |_ ___
-#  | __/ _` \ \ /\ / / |/ /| __/ _ \
-#  | || (_| |\ V  V /|   < | || (_) |
-#   \__\__,_| \_/\_/ |_|\_(_)__\___/     More › https://www.tawk.to/knowledgebase/
-#
-#  tawk.to is a free live chat app that lets you monitor and chat
-#  with visitors on your website or from a free customizable page
-#
-#  To load the script add tawkto: true in front matter of each page
-#
-# used in _includes/footer_scripts
-
-# tawkto_embed_uri:
-
-
-#     ___              _     __           __
-#    /   |  __________(_)___/ /___  _____/ /_____  _____
-#   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
-#  / ___ |(__  ) /__/ / /_/ / /_/ / /__/ /_/ /_/ / /
-# /_/  |_/____/\___/_/\__,_/\____/\___/\__/\____/_/
-#
-#  Asciidoctor is a fast text processor and publishing toolchain for converting
-#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
-#
-#  https://github.com/asciidoctor/jekyll-asciidoc
-#  https://github.com/asciidoctor
-#
-#
-
-asciidoctor-enabled: false
-asciidoctor:
-  description: 
-  attributes:
-    source-highlighter: coderay
-    coderay-css: style
-    icons: font
 
 
 destination: "../site"
