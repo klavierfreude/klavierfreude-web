@@ -33,6 +33,11 @@ als auch einem möglichst breiten Publikum klassische Musik in lockerer Atmosph�
 Wir sind offen für deine Ideen!
 Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns darauf, dich kennenzulernen!
 
+## Vereinsaktivitäten
+
+- Stammtisch für Mitglieder und Interessierte: 
+- Piano Meetup: 
+
 
 ## Veranstaltungen <a name="Veranstaltungen"/>
 
