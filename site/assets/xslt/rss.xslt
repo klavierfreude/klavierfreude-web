@@ -109,7 +109,7 @@
       <h1 class="hide-for-large-up"><a href="https://klavierfreude.at" class="icon-tree"> Verein Klavierfreude</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
+      <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span></span></a></li>
     </ul>
     <section class="top-bar-section">
 
