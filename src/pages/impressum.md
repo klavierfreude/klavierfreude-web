@@ -6,5 +6,12 @@ header:
 permalink: "/impressum/"
 ---
 
+Verein Klavierfreude Wien
+ZVR 1575087713
 
-TBD
+<a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a>
+
+Vertretung:
+* Obfrau: 
+* Kassierin:
+
