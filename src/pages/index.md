@@ -20,18 +20,16 @@ homepage: true
 
 Du begeisterst dich für klassische Klaviermusik?
 
-Spielst du Klavier oder bist du sogar professionelle:r Pianist:in?
+Spielst du Klavier, privat oder professionell, und wünscht du dir, mit anderen zu musizieren?
+ 
+Herzlich Willkommen bei KlavierFreude Wien!
+ 
+Wir sind eine Initiative von Profi- und Amateurpianist:innen, die sich zum Ziel gesetzt haben, Klaviermusker:innen zu vernetzen. Wir treffen uns regelmäßig um einander kennenzulernen, zu plaudern, uns auszutauschen und natürlich zusammen Klavier zu spielen.
 
-Wünscht du dir, dabei nicht mehr alleine zu musizieren?
-
-Herzlich Willkommen bei KlavierFreude Wien! Wir sind eine gemeinsame Initiative von Profi- und Amateurpianist:innen, 
-die sich zum Ziel gesetzt hat, Klaviermusiker:innen untereinander zu vernetzen. Wir treffen uns regelmäßig, 
-um einander kennenzulernen, zu plaudern, uns untereinander auszutauschen, und natürlich zusammen zu spielen. 
-Außerdem möchten wir eine Plattform bieten, um gemeinsam Veranstaltungen und Projekte zu organisieren - besonders durch 
-Konzerte an informellen Orten möchten wir sowohl Pianist:innen die Gelegenheit zum Spielen ermöglichen, 
-als auch einem möglichst breiten Publikum klassische Musik in lockerer Atmosphäre vorstellen. 
-Wir sind offen für deine Ideen!
+Zusätzlich bieten wir eine Plattform um gemeinsam Veranstaltungen und Projekte zu organisieren. Durch Konzerte an informellen Orten möchten wir einerseits Pianist:innen Gelegenheit zum Spielen bieten, andererseits einem möglichst breiten Publikum klassische Musik in lockerer Atmosphäre näher bringen.
+ 
 Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns darauf, dich kennenzulernen!
+
 
 ### Vereinsaktivitäten
 
