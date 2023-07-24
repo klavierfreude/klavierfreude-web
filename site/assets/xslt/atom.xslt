@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://klavierfreude.at/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://klavierfreude.at/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Home page des Vereins Klavierfreude Wien">
-	<meta property="og:url" content="https://klavierfreude.at/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="de_DE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Verein Klavierfreude">
@@ -61,13 +61,13 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://klavierfreude.at/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://klavierfreude.at/assets/img/favicon32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon32.png">
 
 	
 
@@ -106,7 +106,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://klavierfreude.at" class="icon-tree"> Verein Klavierfreude</a></h1>
+      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Verein Klavierfreude</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span></span></a></li>
@@ -114,6 +114,7 @@
     <section class="top-bar-section">
 
       <ul class="left">
+	
         
 
               
@@ -123,7 +124,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/">Klavierfreude</a></li>
+              <li><a  href="http://localhost:4000/">Klavierfreude</a></li>
               <li class="divider"></li>
 
             
@@ -138,7 +139,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/#Veranstaltungen">Veranstaltungen</a></li>
+              <li><a  href="http://localhost:4000/#Veranstaltungen">Veranstaltungen</a></li>
               <li class="divider"></li>
 
             
@@ -153,7 +154,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/#Mitgliedschaft">Mitgliedschaft</a></li>
+              <li><a  href="http://localhost:4000/#Mitgliedschaft">Mitgliedschaft</a></li>
               <li class="divider"></li>
 
             
@@ -168,7 +169,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/impressum/">Impressum</a></li>
+              <li><a  href="http://localhost:4000/impressum/">Impressum</a></li>
               <li class="divider"></li>
 
             
@@ -183,7 +184,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/kontakt/">Kontakt</a></li>
+              <li><a  href="http://localhost:4000/kontakt/">Kontakt</a></li>
               <li class="divider"></li>
 
             
@@ -203,6 +204,7 @@
 
       <ul class="right">
         
+        
 
               
 
@@ -253,7 +255,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://klavierfreude.at/search/">Suche</a></li>
+              <li><a  href="http://localhost:4000/search/">Suche</a></li>
 
             
             
@@ -261,7 +263,7 @@
         
         
       </ul>
-     
+    
     </section>
   </nav>
 </div><!-- /#navigation -->
@@ -271,8 +273,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://klavierfreude.at/" >
-				<img src="https://klavierfreude.at/assets/img/logo.png">
+			<a id="logo" href="http://localhost:4000/" >
+				<img src="http://localhost:4000/assets/img/logo.png">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -372,7 +374,7 @@
 		
 
 
-<script src="https://klavierfreude.at/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 

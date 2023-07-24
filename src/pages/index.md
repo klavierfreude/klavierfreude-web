@@ -9,6 +9,9 @@ header:
   image_fullwidth: /images/header.png
 
 permalink: /index.html
+language: de
+language_en: /index_en.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
