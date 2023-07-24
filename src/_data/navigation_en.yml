@@ -1,9 +1,9 @@
 - title: Klavierfreude
-  url: "/"
+  url: "/index_en.html"
   side: left
 
 - title: Events
-  url: "/#Veranstaltungen"
+  url: "/index_en.html#Veranstaltungen"
   side: left
 
 #- title: "Templates"
@@ -16,7 +16,7 @@
 #    url: "/design/typography/typography/"
 
 - title: Membership 
-  url: "/#Mitgliedschaft"
+  url: "/index_en.html/#Mitgliedschaft"
   side: left
 
 - title: Impressum
