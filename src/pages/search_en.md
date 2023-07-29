@@ -1,12 +1,12 @@
 ---
-permalink: /search/
+permalink: /search_en/
 layout: page
-title: "Suche"
+title: "Search"
 sitemap: false
 header:
   image_fullwidth: /images/header.png
-language: de
-language_en: /search_en/
+language: en 
+language_de: /search/
 
 ---
 
