@@ -42,11 +42,8 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
 
 ## Veranstaltungen <a name="Veranstaltungen"/>
 
-* <a href="/veranstaltungen/klavierabend-2023-09-25/">2023-09-25 Klavierabend</a> 
-
 {% include list-posts entries='3' category='Veranstaltungen' %}
 
-{% include list-posts entries='3' category='Pianist:innen' %}
 
 ## Siehe auch
 
