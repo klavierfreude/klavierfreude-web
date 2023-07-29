@@ -1,5 +1,13 @@
 {% comment %}TODO consider https://developers.google.com/custom-search/docs/element{% endcomment %}
 {% capture google_search_site %}{{ site.url }}{{ site.baseurl }}/{% endcapture %}
+{% if page.language == "en" %}
+   {% assign navdata = site.data.navigation_en %}
+   {% assign langdata = site.data.language_en %}
+{% else %}
+   {% assign navdata = site.data.navigation %}
+   {% assign langdata = site.data.language_de %}
+{% endif %}
+
 <script language="Javascript" type="text/javascript">
 	function google_search() {
 		var query = document.getElementById("google-search").value;
@@ -8,7 +16,7 @@
 </script>
 
 <form id="search" onsubmit="google_search(); return false;">
-	<input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
+	<input type="text" id="google-search" placeholder="{{ langdata.enter_search_term }}">
 </form>
 <noscript>
 	Search <a href="https://www.google.com/search?q=site:{{ google_search_site | cgi_escape }}" target="_blank">Google</a> for:

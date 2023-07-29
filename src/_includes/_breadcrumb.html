@@ -3,9 +3,16 @@
 *  http://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site
 *
 {% endcomment %}
+{% if page.language == "en" %}
+   {% assign navdata = site.data.navigation_en %}
+   {% assign langdata = site.data.language_en %}
+{% else %}
+   {% assign navdata = site.data.navigation %}
+   {% assign langdata = site.data.language_de %}
+{% endif %}
 
 <nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
- <a href="{{ site.url }}{{ site.baseurl }}">{{ site.data.language.breadcrumb_start }}</a>
+ <a href="{{ site.url }}{{ site.baseurl }}">{{ langdata.breadcrumb_start }}</a>
  {% assign crumbs = page.url | split: '/' %}
    {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}

@@ -20,6 +20,13 @@
 *
 {% endcomment %}
 
+{% if page.language == "en" %}
+   {% assign navdata = site.data.navigation_en %}
+   {% assign langdata = site.data.language_en %}
+{% else %}
+   {% assign navdata = site.data.navigation %}
+   {% assign langdata = site.data.language_de %}
+{% endif %}
 
 
 {% assign category = include.category %}
@@ -31,7 +38,7 @@
     {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
-      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ langdata.more }}</strong></a></li>
 
 
   {% elsif category %}
@@ -39,7 +46,7 @@
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
-      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ langdata.more }}</strong></a></li>
 
 
   {% elsif tag %}

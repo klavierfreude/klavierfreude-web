@@ -2,6 +2,14 @@
 layout: default
 format: frontpage
 ---
+{% if page.language == "en" %}
+   {% assign navdata = site.data.navigation_en %}
+   {% assign langdata = site.data.language_en %}
+{% else %}
+   {% assign navdata = site.data.navigation %}
+   {% assign langdata = site.data.language_de %}
+{% endif %}
+
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
@@ -72,7 +80,7 @@ format: frontpage
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            <h2>{{ langdata.new_blog_entries }}</h2>
             {% endif %}
             {% endfor %}
         </div><!-- /.small-12.columns -->
@@ -86,14 +94,14 @@ format: frontpage
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
                 {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ langdata.read_more }}</strong></a>
             </p>
             {% endfor %}
         </div><!-- /.medium-5.columns -->
 
 
         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            <p><strong>{{ langdata.more_articles }}</strong></p>
             {% include list-posts entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->

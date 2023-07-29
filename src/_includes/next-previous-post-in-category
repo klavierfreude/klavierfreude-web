@@ -15,6 +15,14 @@
 *
 {% endcomment %}
 
+{% if page.language == "en" %}
+   {% assign navdata = site.data.navigation_en %}
+   {% assign langdata = site.data.language_en %}
+{% else %}
+   {% assign navdata = site.data.navigation %}
+   {% assign langdata = site.data.language_de %}
+{% endif %}
+
 {% assign cat = page.categories | first | join: '' %}
 {% for post in site.categories.[cat] %}
 {% if post.url == page.url %}
@@ -31,9 +39,9 @@
 {% endif %}
 {% endfor %}
 {% if prev_post %}
-<a class="left button tiny radius icon-chevron-left r15" href="{{site.url}}{{site.baseurl}}{{ prev_post }}">{{ site.data.language.previous_post_in }} {{ cat | upcase }}</a>
+<a class="left button tiny radius icon-chevron-left r15" href="{{site.url}}{{site.baseurl}}{{ prev_post }}">{{ langdata.previous_post_in }} {{ cat | upcase }}</a>
 {% endif %}
 {% if next_post %}
-<a class="button tiny radius" href="{{site.url}}{{site.baseurl}}{{ next_post }}">{{ site.data.language.next_post_in }} {{ cat | upcase }}<span class="icon-chevron-right"></span></a>
+<a class="button tiny radius" href="{{site.url}}{{site.baseurl}}{{ next_post }}">{{ langdata.next_post_in }} {{ cat | upcase }}<span class="icon-chevron-right"></span></a>
 {% endif %}
 
