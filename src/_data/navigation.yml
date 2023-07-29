@@ -2,6 +2,16 @@
   url: "/"
   side: left
 
+- title: "Verein"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Mitgliedschaft"
+    url: "/mitgliedschaft/"
+  - title: "Team"
+    url: "/team/"
+
+
 - title: Veranstaltungen
   url: "/#Veranstaltungen"
   side: left
@@ -15,13 +25,15 @@
 #  - title: "Typography"
 #    url: "/design/typography/typography/"
 
-- title: Mitgliedschaft
-  url: "/#Mitgliedschaft"
+- title: Rechtliches 
   side: left
-
-- title: Impressum
-  url: "/impressum/"
-  side: left
+  dropdown:
+  - title: "Impressum"
+    url: /impressum/"
+  - title: "Datenschutz"
+    url: /datenschutz/"
+  - title: "Urheberrecht"
+    url: /urheberrecht/
 
 - title: Kontakt
   url: "/kontakt/"

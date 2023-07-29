@@ -143,6 +143,37 @@
 
             
             
+
+              <li class="has-dropdown">
+                <a  href="https://klavierfreude.at/">Verein</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/mitgliedschaft/">Mitgliedschaft</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/team/">Team</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
               <li><a  href="https://klavierfreude.at/#Veranstaltungen">Veranstaltungen</a></li>
               <li class="divider"></li>
 
@@ -158,25 +189,31 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/#Mitgliedschaft">Mitgliedschaft</a></li>
+
+              <li class="has-dropdown">
+                <a  href="https://klavierfreude.at">Rechtliches</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/impressum/"">Impressum</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/datenschutz/"">Datenschutz</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/urheberrecht/">Urheberrecht</a></li>
+                    
+                  </ul>
+
+              </li>
               <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="https://klavierfreude.at/impressum/">Impressum</a></li>
-              <li class="divider"></li>
-
-            
             
           
         

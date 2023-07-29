@@ -27,7 +27,7 @@ You play the piano, privately or professionally, and you wish you could play mor
 
 A warm welcome to the initiative "KlavierFreude Wien" (JoyOfPiano Vienna)! 
 
-Wir are a group of professional and amateur pianists whose aim is to connect
+We are a group of professional and amateur pianists whose aim is to connect
 piano musicians. We meet regularly to get to know each other, chat, and of 
 course, to play the piano together. 
 

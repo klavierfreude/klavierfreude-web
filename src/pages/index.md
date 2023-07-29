@@ -44,18 +44,12 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
 
 * <a href="/veranstaltungen/klavierabend-2023-09-25/">2023-09-25 Klavierabend</a> 
 
-## Mitgliedschaft <a name="Mitgliedschaft"/>
+{% include list-posts entries='3' category='Veranstaltungen' %}
 
-Der Mitgliedsbeitrag beträgt EUR 35 pro Jahr und beinhaltet:
+{% include list-posts entries='3' category='Pianist:innen' %}
 
-- Teilnahme an allen Treffen
-- Mitgestaltung unserer Veranstaltungen/Konzerte mit Auftrittsmöglichkeiten nach Absprache
-- Zweimal jährlich die Möglichkeit zur Teilnahme an Masterclasses  
+## Siehe auch
 
-Mitglied werden ist ganz einfach:
-- <a href="verein-klavierfreude-beitrittsformular.pdf">Beitrittsformular</a> ausfüllen und an uns schicken:
-- per Email an beitritt@klavierfreude.at
-- per Post  an 
-   Verein Klavierfreude Wien
-   TBD
+* [Informationen zur Mitgliedschaft](/mitgliedschaft)
+* [Vereins-Team](/team/)
 
