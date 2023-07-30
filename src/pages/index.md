@@ -1,9 +1,4 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page
 header:
   image_fullwidth: /images/header.png
@@ -12,12 +7,14 @@ permalink: /index.html
 language: de
 language_en: /index_en.html
 
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
 homepage: true
 ---
+
+<script type="text/javascript">
+  const getLanguage = () => navigator.userLanguage || (navigator.languages && navigator.languages.length && navigator.languages[0]) || navigator.language || navigator.browserLanguage || navigator.systemLanguage || 'en';
+  if (getLanguage !== "de") 
+    window.location.href = "/index_en.html"
+</script> 
 
 ## Über uns
 
