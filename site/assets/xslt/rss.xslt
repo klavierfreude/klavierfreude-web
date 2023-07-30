@@ -174,7 +174,7 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/#Veranstaltungen">Veranstaltungen</a></li>
+              <li><a  href="https://klavierfreude.at/veranstaltungen/">Veranstaltungen</a></li>
               <li class="divider"></li>
 
             

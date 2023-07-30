@@ -40,7 +40,7 @@ Als Klavierfreunde wollen wir KlavierFreude miteinander teilen. Wir freuen uns d
 - Piano Meetup: 
 
 
-## Veranstaltungen <a name="Veranstaltungen"/>
+## <a href="/veranstaltungen/">Veranstaltungen</a> <a name="Veranstaltungen"/>
 
 {% include list-posts entries='3' category='Veranstaltungen' %}
 

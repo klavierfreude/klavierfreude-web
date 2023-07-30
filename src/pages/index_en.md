@@ -48,8 +48,10 @@ We are looking forward to meet you!
 
 ## Events <a name="Veranstaltungen"/>
 
-* <a href="/veranstaltungen/klavierabend-2023-09-25_en/">2023-09-25 Piano Evening</a> 
+{% include list-posts entries='3' category='Veranstaltungen' %}
 
-## Membership <a name="Mitgliedschaft"/>
 
+See also: 
+* [Membership infos](/mitgliedschaft_en/)
+* [Team](/team_en/)
 
