@@ -16,16 +16,8 @@
   url: "/#Veranstaltungen"
   side: left
 
-#- title: "Templates"
-#  url: "/design/"
-#  side: left
-#  dropdown:
-#  - title: "Grid & Colors"
-#    url: "/design/grid/"
-#  - title: "Typography"
-#    url: "/design/typography/typography/"
-
 - title: Rechtliches 
+  url: "/impressum"
   side: left
   dropdown:
   - title: "Impressum"
@@ -42,7 +34,3 @@
 - title: "Suche"
   url: "/search/"
   side: right
-
-#- title: "Kontakt"
-#  url: "/contact/"
-#  side: right

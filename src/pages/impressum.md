@@ -12,6 +12,8 @@ ZVR 1575087713
 <a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a>
 
 Vertretung:
-* Obfrau: 
-* Kassierin:
+* Obfrau: Eunju Lee
+* Kassierin: Isabel Weiser
+
+Siehe [Verein "Klavierfreude" Team](/team/)
 

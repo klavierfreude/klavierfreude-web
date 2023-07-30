@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 28 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://klavierfreude.at/404.html</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://klavierfreude.at/blog/archive/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -41,7 +41,7 @@
 	<url>
 	<loc>https://klavierfreude.at/datenschutz/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>https://klavierfreude.at/pianists/eunju_lee/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>https://klavierfreude.at/impressum/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>https://klavierfreude.at/blog/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>https://klavierfreude.at/pianists/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>https://klavierfreude.at/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,22 @@
 	<url>
 	<loc>https://klavierfreude.at/index_en.html</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://klavierfreude.at/pianists/isabel_weiser/</loc>
+	
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,22 @@
 	<url>
 	<loc>https://klavierfreude.at/kontakt/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://klavierfreude.at/pianists/lindsey_huff/</loc>
+	
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +191,7 @@
 	<url>
 	<loc>https://klavierfreude.at/mitgliedschaft/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +206,7 @@
 	<url>
 	<loc>https://klavierfreude.at/mitgliedschaft_en/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +221,7 @@
 	<url>
 	<loc>https://klavierfreude.at/robots.txt</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -210,7 +240,7 @@
 	<url>
 	<loc>https://klavierfreude.at/search/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -225,7 +255,7 @@
 	<url>
 	<loc>https://klavierfreude.at/search_en/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,7 +270,7 @@
 	<url>
 	<loc>https://klavierfreude.at/sitemap.xml</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -257,7 +287,7 @@
 	<url>
 	<loc>https://klavierfreude.at/team/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -272,7 +302,7 @@
 	<url>
 	<loc>https://klavierfreude.at/team_en.html</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -287,7 +317,7 @@
 	<url>
 	<loc>https://klavierfreude.at/urheberrecht/</loc>
 	
-		<lastmod>2023-07-29T23:46:04+02:00</lastmod>
+		<lastmod>2023-07-30T18:15:55+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

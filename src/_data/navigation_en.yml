@@ -2,35 +2,33 @@
   url: "/index_en.html"
   side: left
 
+- title: Verein
+  url: "/"
+  side: left
+  dropdown: 
+  - title: "Membership"
+    url: "/mitgliedschaft_en/"
+  - title: "Team"
+    url: "/team_en/" 
+
 - title: Events
   url: "/index_en.html#Veranstaltungen"
-  side: left
 
-#- title: "Templates"
-#  url: "/design/"
-#  side: left
-#  dropdown:
-#  - title: "Grid & Colors"
-#    url: "/design/grid/"
-#  - title: "Typography"
-#    url: "/design/typography/typography/"
-
-- title: Membership 
-  url: "/index_en.html/#Mitgliedschaft"
-  side: left
-
-- title: Impressum
+- title: Legal
   url: "/impressum/"
   side: left
+  dropdown: 
+  - title: "Imprint"
+    url: "/impressum"
+  - title: "Data protection"
+    url: "/datenschutz"
+  - title: "Copyright"
+    url: "/urheberrecht/"
 
 - title: Contact
   url: "/kontakt/"
   side: left
 
 - title: "Search"
-  url: "/search/"
+  url: "/search_en/"
   side: right
-
-#- title: "Kontakt"
-#  url: "/contact/"
-#  side: right
