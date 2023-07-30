@@ -23,9 +23,13 @@ format: post
 				{% endif %}
 				
 				{% if page.language_de %}
-				  <a href="{{ page.language_de }}" style="float: right;">DEUTSCH</a>
-				{% elsif page.language_en %}
-				  <a href="{{ page.language_en }}" style="float:right;">ENGLISH</a>
+				  <a href="{{ page.language_de }}" style="float: right; margin: 1em;">DEUTSCH</a>
+                                {% endif %}
+				{% if page.language_en %}
+				  <a href="{{ page.language_en }}" style="float:right; margin: 1em;">ENGLISH</a>
+                                {% endif %}
+                                {% if page.language_ko %}
+                                  <a href="{{ page.language_ko }}" style="float: right; margin: 1em;">한국인</a>
                                 {% endif %}
 
 				<div itemprop="name">
