@@ -10,6 +10,8 @@ language_ko: /pianists/eunju_lee_ko/
 
 ---
 
+### Mag.<sup>a</sup> art., Senior Lecturer an der Universität für Musik und Darstellende Kunst, Wien
+
 <img src="/images/LeeEunju3.jpg" align="left" width="200px" hspace="10" vspace="10">
 Geboren und aufgewachsen in Südkorea hat sich Eun-Ju Lee bereits im Alter von 15 Jahren entschieden, ihre Heimat zu verlassen und ihren Lebensmittelpunkt zwecks Musikstudium nach Wien zu verlegen.
 

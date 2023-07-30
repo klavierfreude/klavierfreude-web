@@ -10,5 +10,9 @@ language: de
 
 ## Unsere Pianist:innen
 
+* [Lindsey Huff](lindsey_huff)
+* [Julianna Kiss](julianna_kiss)
 * [Eunju Lee](eunju_lee)
+* [Isabel Weiser](isabel_weiser)
+
 

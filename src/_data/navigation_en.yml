@@ -10,6 +10,8 @@
     url: "/mitgliedschaft_en/"
   - title: "Team"
     url: "/team_en/" 
+  - title: "Pianists"
+    url: "/pianists/"
 
 - title: Events
   url: "/veranstaltungen_en"

@@ -159,6 +159,11 @@
 
                       <li><a  href="https://klavierfreude.at/team/">Team</a></li>
                     
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/pianists/">Pianist:innen</a></li>
+                    
                   </ul>
 
               </li>
