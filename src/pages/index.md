@@ -10,12 +10,6 @@ language_en: /index_en.html
 homepage: true
 ---
 
-<script type="text/javascript">
-  const getLanguage = () => navigator.userLanguage || (navigator.languages && navigator.languages.length && navigator.languages[0]) || navigator.language || navigator.browserLanguage || navigator.systemLanguage || 'en';
-  if (getLanguage !== "de") 
-    window.location.href = "/index_en.html"
-</script> 
-
 ## Über uns
 
 Du begeisterst dich für klassische Klaviermusik?
