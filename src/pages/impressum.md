@@ -6,14 +6,19 @@ header:
 permalink: "/impressum/"
 ---
 
-Verein Klavierfreude Wien
-ZVR 1575087713
 
-<a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a>
+Verein Klavierfreude Wien<br>
+c/o Eunju Lee<br>
+Engerthstraße 202/20<br>
+1020 Wien<br>
+
+ZVR: 1575087713
+
+📧<a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a>
 
 Vertretung:
-* Obfrau: Eunju Lee
-* Kassierin: Isabel Weiser
+* Obfrau: <a href="/pianists/eunju_lee/">Eunju Lee</a>
+* Kassierin: <a href="/pianists/isabel_weiser/">Isabel Weiser</a>
 
 Siehe [Verein "Klavierfreude" Team](/team/)
 

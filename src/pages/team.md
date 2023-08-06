@@ -18,7 +18,6 @@ language_en: /team_en/
       </a>
       <p>
         <span style="font-size: 120%">Obfrau:<br>Eunju Lee</span><br>
-        <span class="icon-facebook">&nbsp;<a href="https://www.facebook.com/eunju.lee.9400">Facebook</a></span>
       </p>
   </li>
   <li><a href="/pianists/eunju_lee/">
