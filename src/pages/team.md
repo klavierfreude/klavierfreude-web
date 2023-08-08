@@ -20,7 +20,7 @@ language_en: /team_en/
         <span style="font-size: 120%">Obfrau:<br>Eunju Lee</span><br>
       </p>
   </li>
-  <li><a href="/pianists/eunju_lee/">
+  <li><a href="/pianists/lindsey_huff/">
         <img src="/images/LindseyHuff2.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  />
       </a>
       <p>
@@ -28,7 +28,7 @@ language_en: /team_en/
         <span class="icon-facebook">&nbsp;<a href="https://www.facebook.com/lindsey.huff.549">Facebook</a></span>
       </p>
   </li>
-  <li><a href="/pianists/eunju_lee/">
+  <li><a href="/pianists/isabel_weiser/">
         <img src="/images/female-avi2.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  />
       </a>
       <p>

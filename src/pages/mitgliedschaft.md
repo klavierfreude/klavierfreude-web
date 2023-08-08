@@ -10,16 +10,35 @@ language_en: /mitgliedschaft_en/
 
 ---
 
-Der Mitgliedsbeitrag beträgt EUR 35 pro Jahr und beinhaltet:
+Die folgenden Arten der Mitgliedschaft sind möglich:
 
-- Teilnahme an allen Treffen
-- Mitgestaltung unserer Veranstaltungen/Konzerte mit Auftrittsmöglichkeiten nach Absprache
-- Zweimal jährlich die Möglichkeit zur Teilnahme an Masterclasses  
+* Außerordentliche aktive Mitgliedschaft: 
+   * Teilnahme an allen Vereinsaktivitäten
+   * Organisation von Konzerten
+   * Auftritte bei Konzerten
+   * Teilnahme an Masterclasses
+   * Kein Stimmrecht bei der Generalversammlung
+   * Beitritt via <a href="missing">Beitrittsformular</a>
+   * Jährlicher Mitgliedsbeitrag EUR 50
+* Außerordentliche passive Mitgliedschaft:
+   * Teilnahme an allen Vereinsaktivitäten
+   * Keine Teilnahme an der Organisation von Konzerten, Auftritten oder Masterclasses
+   * Kein Stimmrecht bei der Generalversammlung
+   * Beitritt via <a href="missing">Beitrittsformular</a>
+   * Jährlicher Mitgliedsbeitrag EUR 35
+* Ordentliche Mitgliedschaft:
+   * Wie die außerordentliche Mitgliedschaft 
+   * Zusätzlich Stimmrecht bei der Generalversammlung
+   * Beitrat nach Vorschlag via Abstimmung bei der Generalversammlung
+   * Jährlicher Mitgliedsbeitrag EUR 80
+
 
 Mitglied werden ist ganz einfach:
 - <a href="verein-klavierfreude-beitrittsformular.pdf">Beitrittsformular</a> ausfüllen und an uns schicken:
 - per Email an beitritt@klavierfreude.at
-- per Post  an 
-   Verein Klavierfreude Wien
-   TBD
+- per Post  an <br>
+   Verein Klavierfreude Wien<br>
+   c/o Eunju Lee<br>
+   Engerthstraße 202/20<br>
+   1020 Wien
 
