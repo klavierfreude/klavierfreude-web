@@ -2,8 +2,8 @@
 layout: page
 header:
   image_fullwidth: /images/header.png
-title: Lindsey Huff
-permalink: /pianists/lindsey_huff/
+title: Julia Müller
+permalink: /pianists/julia_müller/
 language: de
 
 ---

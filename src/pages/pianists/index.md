@@ -13,6 +13,8 @@ language: de
 * [Lindsey Huff](lindsey_huff)
 * [Julianna Kiss](julianna_kiss)
 * [Eunju Lee](eunju_lee)
+* [Julia Müller](julia_müller)
+* [Johann Petrak](johann_petrak)
 * [Isabel Weiser](isabel_weiser)
 
 
