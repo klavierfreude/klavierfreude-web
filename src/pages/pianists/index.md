@@ -15,6 +15,5 @@ language: de
 * [Eunju Lee](eunju_lee)
 * [Julia Müller](julia_müller)
 * [Johann Petrak](johann_petrak)
-* [Isabel Weiser](isabel_weiser)
 
 
