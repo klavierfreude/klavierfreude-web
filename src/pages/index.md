@@ -20,7 +20,7 @@ homepage: true
 
 Du begeisterst dich für klassische Klaviermusik?
 
-Spielst du Klavier oder bist du sogar professionelle:r Pianist:in“?
+Spielst du Klavier oder bist du sogar professionelle:r Pianist:in?
 
 Wünscht du dir, dabei nicht mehr alleine zu musizieren?
  
