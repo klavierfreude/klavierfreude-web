@@ -14,6 +14,5 @@ language: de
 * [Julianna Kiss](julianna_kiss)
 * [Eunju Lee](eunju_lee)
 * [Julia Müller](julia_müller)
-* [Johann Petrak](johann_petrak)
 
 
