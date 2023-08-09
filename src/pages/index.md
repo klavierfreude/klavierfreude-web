@@ -26,7 +26,7 @@ Wünscht du dir, dabei nicht mehr alleine zu musizieren?
  
 Herzlich Willkommen bei KlavierFreude Wien!
  
-Wir sind eine Initiative von Profi- und Amateurpianist:innen, die sich zum Ziel gesetzt haben, Klaviermusker:innen zu vernetzen. Wir treffen uns regelmäßig, um einander kennenzulernen, zu plaudern, uns auszutauschen und natürlich zusammen Klavier zu spielen.
+Wir sind eine gemeinsame Initiative von Profi- und Amateurpianist:innen, die sich zum Ziel gesetzt haben, Klaviermusker:innen zu vernetzen. Wir treffen uns regelmäßig, um einander kennenzulernen, zu plaudern, uns auszutauschen und natürlich zusammen Klavier zu spielen.
 
 Außerdem möchten wir eine Plattform bieten, um gemeinsam Veranstaltungen und
 Projekte zu organisieren - besonders durch Konzerte an informellen Orten möchten wir sowohl
