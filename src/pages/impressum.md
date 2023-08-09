@@ -18,7 +18,7 @@ ZVR: 1575087713
 
 Vertretung:
 * Obfrau: <a href="/pianists/eunju_lee/">Eunju Lee</a>
-* Kassierin: <a href="/pianists/isabel_weiser/">Isabel Weiser</a>
+* Kassierin: Isabel Weiser
 
 Siehe [Verein "Klavierfreude" Team](/team/)
 

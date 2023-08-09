@@ -28,9 +28,9 @@ language_de: /team/
         <span class="icon-facebook">&nbsp;<a href="https://www.facebook.com/lindsey.huff.549">Facebook</a></span>
       </p>
   </li>
-  <li><a href="/pianists/isabel_weiser/">
+  <li>
         <img src="/images/female-avi2.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  />
-      </a>
+      
       <p>
         <span style="font-size: 120%">Cashier:<br><a href="/pianists/isabel_weiser/">Isabel Weiser</a></span><br>
       </p>
