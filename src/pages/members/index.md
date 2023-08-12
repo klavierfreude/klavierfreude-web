@@ -12,7 +12,7 @@ language: de
 
 ### Ehrenmitglieder
 
-* TBD
+* [Univ.-Prof.i.R. Thomas Kreuzberger](https://www.mdw.ac.at/musikleitung/?PageId=2585)
 
 ### Aktive Mitglieder
 
