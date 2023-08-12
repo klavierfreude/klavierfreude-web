@@ -3,10 +3,10 @@ layout: page
 header:
   image_fullwidth: /images/header.png
 title: Eunju Lee
-permalink: /pianists/eunju_lee/
+permalink: /members/eunju_lee/
 language: de
-language_en: /pianists/eunju_lee_en/
-language_ko: /pianists/eunju_lee_ko/
+language_en: /members/eunju_lee_en/
+language_ko: /members/eunju_lee_ko/
 
 ---
 
