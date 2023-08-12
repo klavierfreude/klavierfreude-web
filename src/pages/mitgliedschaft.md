@@ -24,11 +24,4 @@ language_en: /mitgliedschaft_en/
 
 
 ### Mitglied werden ist ganz einfach:
-- <a href="verein-klavierfreude-beitrittsformular.pdf">Beitrittsformular</a> ausfüllen und an uns schicken:
-- per Email an beitritt@klavierfreude.at
-- per Post  an <br>
-   Verein Klavierfreude Wien<br>
-   c/o Eunju Lee<br>
-   Engerthstraße 202/20<br>
-   1020 Wien
-
+- <a href="verein-klavierfreude-beitrittsformular.pdf">Beitrittsformular</a> ausfüllen und an uns schicken:  beitritt@klavierfreude.at
