@@ -19,39 +19,30 @@ language_de: /index.html
 homepage: true
 ---
 
-## About
-
-You are enthusiastic about classical piano music?
-
-You play the piano, privately or professionally, and you wish you could play more with others?
-
-A warm welcome to the initiative "KlavierFreude Wien" (JoyOfPiano Vienna)! 
-
-We are a group of professional and amateur pianists whose aim is to connect
-piano musicians. We meet regularly to get to know each other, chat, and of 
-course, to play the piano together. 
-
-In addition we offer a platform to organize events and projects. 
-By organizing concerts at unusual, informal locations we want to offer 
-our pianists opportunities to perform and also allow everyone interested
-to enjoy classical music in a relaxed atmosphere.
-
-As friends of the piano, we want to share "Klavierfreude" (joy of the piano).
-We are looking forward to meet you! 
-
-
-### Activities
-
-- Regular meetings of members and interested people
-- Piano Meetup:
-
 
 ## Events <a name="Veranstaltungen"/>
 
 {% include list-posts entries='3' category='Veranstaltungen' %}
 
 
+## About Us
+
+Are you enthusiastic about classical piano music?
+
+Do you play the piano or are you even a professional pianist?
+
+Do you wish you weren't making music alone anymore?
+
+Welcome to the club KlavierFreude ("PianoJoy") Vienna!
+
+We are a joint initiative of professional and amateur pianists who have set themselves the goal of connecting piano musicians. We meet regularly to get to know each other, chat, exchange ideas and of course play the piano together.
+
+We would also like to offer a platform to organize events and projects together - especially through concerts in informal places, we want to give pianists the opportunity to play, as well as introduce classical music to as wide an audience as possible in a relaxed atmosphere. We are open to your ideas!
+
+As KlavierFreude, we want to share the joy of playing the piano with each other. We are looking forward to meeting you!
+
+
 See also: 
-* [Membership infos](/mitgliedschaft_en/)
-* [Team](/team_en/)
+* [Membership information](/mitgliedschaft_en/)
+* [Club Team](/team_en/)
 

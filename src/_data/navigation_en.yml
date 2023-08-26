@@ -2,7 +2,7 @@
   url: "/index_en.html"
   side: left
 
-- title: Association
+- title: Club
   url: "/"
   side: left
   dropdown: 
@@ -14,7 +14,8 @@
     url: "/members/"
 
 - title: Events
-  url: "/veranstaltungen_en"
+  url: "/veranstaltungen_en/"
+  side: left
 
 - title: Legal
   url: "/impressum/"
