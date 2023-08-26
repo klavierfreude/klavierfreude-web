@@ -43,13 +43,13 @@
 					'<div class="roar-gdpr-badge"><img src="/images/gdpr-shield-3.png" alt="GDPR/Datenschutz"></div>'+
 					'<div class="roar-gdpr-title">Datenschutz/GDPR</div>'+
 					'<p class="roar-gdpr-body">'+
-						'Diese Website wird in den USA von GitHub.com gehostet und nutzt andere externe Dienste wie Google Maps, YouTube um Inhalte darzustellen. Diese Dienste nutzen Cookies und andere Technologien um Daten über Ihre Zugriffe zu sammeln.'	+
+						'Diese Website wird in den USA von GitHub.com gehostet und nutzt andere externe Dienste wie Google Maps, Google Fonts, YouTube und andere um Inhalte darzustellen. Diese Dienste nutzen Cookies und andere Technologien um Daten über Ihre Zugriffe zu sammeln.'	+
 						'Wir von klavierfreude.at nutzen diese Daten nicht und haben auch keinen Zugriff darauf. Wir haben auch keine Möglichkeit diese Daten zu kontrollieren. '+
 						'Wir speichern keine Daten über Sie und verwenden keine Cookies außer um ihre Zustimmung zu dieser Information zu speichern. '+ 
 						'Durch die Nutzung dieser Website stimmen Sie der Verwendung dieser Technologien zur Anzeige der Website zu, falls sie damit nicht einverstanden sind verlassen Sie bitte diese Website.'+
 					'</p>'+
 					'<p class="roar-gdpr-body">'+
-						'This web site is hosted in the US by GitHub.com and uses other services like Google Maps, YouTube to show content. These services use cookies and other technologies to collect data about how you access data.' +
+						'This web site is hosted in the US by GitHub.com and uses other services like Google Maps, Google Fonts, YouTube and others to show content. These services use cookies and other technologies to collect data about how you access data.' +
 						'We at klavierfreude.at do not use this data and have no access to it. We also have no way to control this data.'+
 						'We do not store any data about you and do not use any cookies except to store your consent to this information.'+
 						'By using this website you agree to the use of these technologies to display the website, if you do not agree please leave this website.'+
@@ -62,10 +62,6 @@
         
 
     <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
-
-  {% if site.asciidoctor-enabled == true %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
-  {% endif %}
 
 	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
 
@@ -91,8 +87,6 @@
 	<meta name="description" content="{{ description }}">
 	{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
 	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" >{% endif %}
-	{% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
-	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}">{% endif %}
 	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 	<link rel="canonical" href="{{ url }}{{ page.url }}">
 
@@ -132,15 +126,4 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	{% if site.google_analytics_tracking_id %}
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', '{{ site.google_analytics_tracking_id }}');
-	</script>
-	{% endif %}
 
