@@ -4,6 +4,45 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Seite nicht gefunden</title>
+    <link rel="stylesheet" href="/assets/roar/roar.min.css">
+    <script src="/assets/roar/roar.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+			if (!localStorage.getItem('gdprDisclaimer')) {
+				var gdprOptions = {
+					cancel: false,
+					cancelText: 'Datenschutz Informationen',
+					cancelCallBack: (event) => {
+						location.href = '/datenschutz/';
+					},
+					confirm: true,
+					confirmText: 'Akzeptieren',
+					confirmCallBack: (event) => {
+						localStorage.setItem('gdprDisclaimer', true);
+					}
+				};
+				roar(
+					'',
+					'<div class="roar-gdpr-badge"><img src="/images/gdpr-shield-3.png" alt="GDPR/Datenschutz"></div>'+
+					'<div class="roar-gdpr-title">Datenschutz/GDPR</div>'+
+					'<p class="roar-gdpr-body">'+
+						'Diese Website wird in den USA von GitHub.com gehostet und nutzt andere externe Dienste wie Google Maps, YouTube um Inhalte darzustellen. Diese Dienste nutzen Cookies und andere Technologien um Daten über Ihre Zugriffe zu sammeln.'	+
+						'Wir von klavierfreude.at nutzen diese Daten nicht und haben auch keinen Zugriff darauf. Wir haben auch keine Möglichkeit diese Daten zu kontrollieren. '+
+						'Wir speichern keine Daten über Sie und verwenden keine Cookies außer um ihre Zustimmung zu dieser Information zu speichern. '+ 
+						'Durch die Nutzung dieser Website stimmen Sie der Verwendung dieser Technologien zur Anzeige der Website zu, falls sie damit nicht einverstanden sind verlassen Sie bitte diese Website.'+
+					'</p>'+
+					'<p class="roar-gdpr-body">'+
+						'This web site is hosted in the US by GitHub.com and uses other services like Google Maps, YouTube to show content. These services use cookies and other technologies to collect data about how you access data.' +
+						'We at klavierfreude.at do not use this data and have no access to it. We also have no way to control this data.'+
+						'We do not store any data about you and do not use any cookies except to store your consent to this information.'+
+						'By using this website you agree to the use of these technologies to display the website, if you do not agree please leave this website.'+
+					'</p>',
+					gdprOptions
+				);
+			}
+		});
+    </script>
+        
 
     <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
 
