@@ -51,17 +51,18 @@
 
 	<script src="https://klavierfreude.at/assets/js/modernizr.min.js"></script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script src="/assets/js/webfont.js"></script>
 	<script>
 		WebFont.load({
-			google: {
-				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			custom: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ],
+                                urls: [ '/assets/fonts/googlefonts1.css' ]
 			}
 		});
 	</script>
 
 	<noscript>
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+		<link href='/assets/fonts/googlefonts2.css' rel='stylesheet' type='text/css'>
 	</noscript>
 
 <meta http-equiv='cache-control' content='no-cache'>
