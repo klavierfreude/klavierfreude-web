@@ -45,7 +45,8 @@
 			}
 		});
     </script>
-        
+    <link rel="stylesheet" type="text/css" href="/assets/css/iframemanager.css">
+    <script defer src="/assets/js/iframemanager.js"></script>
 
     <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
 
