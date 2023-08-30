@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: /images/header.png
+  image_fullwidth: /images/haende01.jpg
 title: Team
 permalink: /team_en.html
 language: en
