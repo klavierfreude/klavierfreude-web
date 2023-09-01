@@ -7,7 +7,6 @@ header:
 
 ---
 
-Verein Klavierfreude Wien 
 
 * <span>📧&nbsp;Email: <a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a></span>
 * <span class="icon-facebook">&nbsp;Facebook: [KlavierfreudeWien](https://www.facebook.com/klavierfreudewien)
