@@ -4,9 +4,9 @@ title: Über uns
 header:
   image_fullwidth: /images/header.png
 
-permalink: /ueber
+permalink: "/ueber/"
 language: de
-language_en: /ueber_en.html
+language_en: "/ueber_en/"
 
 ---
 
