@@ -12,18 +12,20 @@ language_de: /mitgliedschaft/
 
 ### Active membership: 50€ for one year
 
-* If desired, a personal page under members
-* Possibility of co-organization of concerts and other events
-* Possibility of playing at concerts organized by the association
-* Participation in all club events, including regular get-togethers
-* Participation in a master class twice a year
+* Opportunities of co-organizing concerts and other events, bringing your ideas into the planning
+* Opportunities of playing at concerts organized by the association by arrangement (concert evenings take place every quarter)
+* Free admission to all club events
+* These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
+* If desired, a personal profile page under <a href="/members/">members</a> and sharing your own concerts and events on our website and <a href="/kontakt/">social media</a>
 
 ### Passive membership: 35€ for one year
 
-* Participation in all club events, including regular get-togethers
+* Free admission to all club events
+* These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
 
-### Becoming a member is easy
+
+### Would you like to become a member?
 
 
-Fill out the <a href="/mitgliedschaft/verein-klavierfreude-beitrittsformular.pdf">membership form</a> and send it to us: beitritt@klavierfreude.at
+Please download and fill out the <a href="/mitgliedschaft/verein-klavierfreude-beitrittsformular.pdf">membership form</a> and send it to us: <a href="mailto:verein@klavierfreude.at">verein@klavierfreude.at</a>
 

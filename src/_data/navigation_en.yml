@@ -2,10 +2,14 @@
   url: "/index_en.html"
   side: left
 
-- title: Club
-  url: "/"
+- title: "About Us"
+  url: "/ueber_en"
   side: left
-  dropdown: 
+
+- title: Club
+  url: "/ueber_en/"
+  side: left
+  dropdown:   
   - title: "Membership"
     url: "/mitgliedschaft_en/"
   - title: "Team"
