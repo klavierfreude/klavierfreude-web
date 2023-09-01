@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veranstaltungen
+title: Aktuelles
 header:
   image_fullwidth: /images/header.png
 

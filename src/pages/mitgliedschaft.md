@@ -12,17 +12,20 @@ language_en: /mitgliedschaft_en/
 
 ### Aktive Mitgliedschaft: 50€ für ein Jahr
 
-* Auf Wunsch eine persönliche Seite unter <a href="/members/">Mitglieder</a>
-* Möglichkeit der Mitorganisation von Konzerten und sonstigen Veranstaltungen
-* Möglichkeit des Spielens auf vom Verein organisierten Konzerten
-* Teilnahme an allen Veranstaltungen des Vereins, darunter regelmäßige Stammtischtreffen
-* Zwei mal jährlich Teilnahme an einer Masterclass
+* Möglichkeit der Mitorganisation von Konzerten und sonstigen Veranstaltungen, Einbringen deiner Ideen bei der Planung
+* Möglichkeit des Spielens auf vom Verein organisierten Konzerten nach Absprache (Konzertabende finden viergeljährlich statt)
+* Gratis Besuch aller Veranstaltungen des Vereins
+* Darunter regelmäßige Stammtischtreffen zum Vernetzen, Plaudern, Finden von Lehrer:innen,
+Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur, ...
+* Auf Wunsch ein persönlicher Steckbrief unter <a href="/members/">Mitglieder</a> und Teilen deiner eigenen Konzerte und Veranstaltungen auf unserer Website und Social Media
 
 ### Passive Mitgliedschaft: 35€ für ein Jahr
 
-* Teilnahme an allen Veranstaltungen des Vereins, darunter regelmäßige Stammtischtreffen
+* Gratis Besuch aller Veranstaltungen des Vereins
+* Darunter regelmäßige Stammtischtreffen zum Vernetzen, Plaudern, Finden von Lehrer:innen, Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur,...
 
 
 
-### Mitglied werden ist ganz einfach:
-- <a href="verein-klavierfreude-beitrittsformular.pdf">Beitrittsformular</a> ausfüllen und an uns schicken:  beitritt@klavierfreude.at
+### Du möchtest Mitglied werden?
+
+<a href="verein-klavierfreude-beitrittsformular.pdf">Hier Beitrittsformular herunterladen,</a> ausfüllen und an <a href="mailto:beitritt@klavierfreude.at">beitritt@klavierfreude.at</a> senden

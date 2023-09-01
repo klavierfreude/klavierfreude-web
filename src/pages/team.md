@@ -9,7 +9,7 @@ language: de
 
 ---
 
-### Im Vorstand des Vereins "Klavierfreude":
+### Im Vorstand:
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" > 
   <li><a href="/members/eunju_lee/">
