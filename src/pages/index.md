@@ -10,7 +10,7 @@ language_en: /index_en.html
 homepage: true
 ---
 
-Herzlich Willkommen bei <b>Klavierfreude<b>, einer
+Herzlich Willkommen bei <b>Klavierfreude</b>, einer
 Vernetzungsinitiative von Profi- und Amateurpianist:innen in Wien!
 
 ## <a href="/veranstaltungen/">Aktuelles</a> <a name="Veranstaltungen"/>
