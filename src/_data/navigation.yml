@@ -3,9 +3,11 @@
   side: left
 
 - title: "Verein"
-  url: "/"
+  url: "/ueber/"
   side: left
   dropdown:
+  - title: "Über uns"
+    url: "/ueber/"
   - title: "Mitgliedschaft"
     url: "/mitgliedschaft/"
   - title: "Team"
@@ -14,7 +16,7 @@
     url: /members/
 
 
-- title: Aktuelles
+- title: Veranstaltungen
   url: "/veranstaltungen/"
   side: left
 
