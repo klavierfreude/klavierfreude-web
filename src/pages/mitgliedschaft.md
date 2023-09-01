@@ -28,4 +28,4 @@ Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur, ...
 
 ### Du möchtest Mitglied werden?
 
-<a href="verein-klavierfreude-beitrittsformular.pdf">Hier Beitrittsformular herunterladen,</a> ausfüllen und an <a href="mailto:beitritt@klavierfreude.at">beitritt@klavierfreude.at</a> senden
+<a href="/verein-klavierfreude-beitrittsformular.pdf">Hier Beitrittsformular herunterladen,</a> ausfüllen und an <a href="mailto:beitritt@klavierfreude.at">beitritt@klavierfreude.at</a> senden
