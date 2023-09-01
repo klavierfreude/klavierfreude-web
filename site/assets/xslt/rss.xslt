@@ -177,16 +177,26 @@
 
             
             
+              <li><a  href="https://klavierfreude.at/ueber/">Über uns</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
 
               <li class="has-dropdown">
                 <a  href="https://klavierfreude.at/ueber/">Verein</a>
 
                   <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="https://klavierfreude.at/ueber/">Über uns</a></li>
                     
 
                       
@@ -289,6 +299,14 @@
 
       <ul class="right">
         
+        
+
+              
+
+
+
+          
+          
         
 
               

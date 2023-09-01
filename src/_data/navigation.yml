@@ -2,19 +2,20 @@
   url: "/"
   side: left
 
+- title: "Über uns"
+  url: "/ueber/"
+  side: left
+
 - title: "Verein"
   url: "/ueber/"
   side: left
   dropdown:
-  - title: "Über uns"
-    url: "/ueber/"
   - title: "Mitgliedschaft"
     url: "/mitgliedschaft/"
   - title: "Team"
     url: "/team/"
   - title: "Mitglieder"
     url: /members/
-
 
 - title: Veranstaltungen
   url: "/veranstaltungen/"
