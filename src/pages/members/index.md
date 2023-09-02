@@ -16,10 +16,10 @@ language: de
 
 ### Aktive Mitglieder
 
-* [Lindsey Huff](lindsey_huff)
-* [Eunju Lee](eunju_lee)
-* [Julia Müller](julia_müller)
-* [Johann Petrak](johann_petrak)
+* Lindsey Huff
+* Eunju Lee
+* Julia Müller
+* Johann Petrak
 * Isabel Weiser
 
 
