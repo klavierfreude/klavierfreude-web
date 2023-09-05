@@ -1,0 +1,28 @@
+---
+layout: page
+title: "Stammtisch am 13. Oktober 2023, 19 Uhr"
+categories:
+    - Veranstaltungen
+    - Stammtisch
+header:
+  image_fullwidth: /images/header.png
+
+language: de
+
+---
+
+
+Wir treffen uns zum gegenseitigen Kennenlernen, gemütlichen Plaudern, zum untereinander Austauschen und gemeinsam Ideen schmieden. 
+
+Alle Interessierten sind herzlich eingeladen, zum Schnuppern vorbeizukommen! 
+
+
+Ort: Käuzchen, Gardegasse 8
+
+<div
+    data-service="googlemaps"
+    data-id="!1m18!1m12!1m3!1d2659.073709854952!2d16.352563574873077!3d48.20519614645324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d0793d56d8ccd%3A0x9e1966395b6101c5!2sDas%20K%C3%A4uzchen!5e0!3m2!1sen!2sit!4v1693893671818!5m2!1sen!2sit"
+    data-autoscale
+></div>
+
+
