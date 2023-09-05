@@ -9,44 +9,11 @@
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/iframemanager.css">
     <link rel="stylesheet" href="/assets/roar/roar.min.css">
     <script src="/assets/roar/roar.min.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-			if (!localStorage.getItem('gdprDisclaimer1')) {
-				var gdprOptions = {
-					cancel: false,
-					cancelText: 'Datenschutz Informationen',
-					cancelCallBack: (event) => {
-						location.href = '/datenschutz/';
-					},
-					confirm: true,
-					confirmText: 'Akzeptieren/Accept',
-					confirmCallBack: (event) => {
-						localStorage.setItem('gdprDisclaimer1', true);
-					}
-				};
-				roar(
-					'',
-					'<div style="height: 150px; padding-right:10px; overflow-y: scroll;"><p>(Please scroll down for English)<br>'+
-						'Diese Website wird in den USA von GitHub.com gehostet und nutzt andere externe Dienste wie Google Maps, YouTube und andere um Inhalte darzustellen. Diese Dienste nutzen Cookies und andere Technologien um Daten über Ihre Zugriffe zu sammeln. '	+
-						'Wir von klavierfreude.at nutzen diese Daten nicht und haben auch keinen Zugriff darauf. Wir haben auch keine Möglichkeit diese Daten zu kontrollieren. '+
-						'Wir von klavierfreude.at speichern keine Daten über Sie und verwenden keine Cookies ausser um ihre Zustimmung zu speichern. '+ 
-						'Durch die Nutzung dieser Website stimmen Sie der Verwendung dieser Technologien zur Anzeige der Website zu, falls sie damit nicht einverstanden sind verlassen Sie bitte diese Website. '+
-					'</p>'+
-					'<p>'+
-						'This web site is hosted in the US by GitHub.com and uses other services like Google Maps, YouTube and others to show content. These services use cookies and other technologies to collect data about how you access data. ' +
-						'We at klavierfreude.at do not use this data and have no access to it. We also have no way to control this data. '+
-						'We at klavierfreude.at do not store any data about you and do not use any cookies except for storing your consent. '+
-						'By using this website you agree to the use of these technologies to display the website, if you do not agree please leave this website. '+ 
-					'</p></div>',
-					gdprOptions
-				);
-			}
-		});
-    </script>
-    <link rel="stylesheet" type="text/css" href="/assets/css/iframemanager.css">
     <script defer src="/assets/js/iframemanager.js"></script>
+    
 
     <link rel="stylesheet" type="text/css" href="https://klavierfreude.at/assets/css/styles_feeling_responsive.css">
 
@@ -102,6 +69,7 @@
 
 	<link type="text/plain" rel="author" href="https://klavierfreude.at/humans.txt">
 
+		<script src="/assets/js/jquery.min.js"></script>
 	
 
 	
@@ -129,11 +97,13 @@
 	
 
 	
-
+		
 
 	
 
+<script defer src="/assets/js/datenschutz.js"></script>
 
+    
 
 		]]></xsl:text>
 	</head>
@@ -228,10 +198,26 @@
 
             
             
-              <li><a  href="https://klavierfreude.at/veranstaltungen/">Veranstaltungen</a></li>
-              <li class="divider"></li>
 
-            
+              <li class="has-dropdown">
+                <a  href="https://klavierfreude.at/veranstaltungen/">Veranstaltungen</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/veranstaltungen_stammtische/">Stammtische</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://klavierfreude.at/veranstaltungen_konzerte/">Konzerte</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
             
           
         
