@@ -198,26 +198,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="https://klavierfreude.at/veranstaltungen/">Veranstaltungen</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="https://klavierfreude.at/veranstaltungen_stammtische/">Stammtische</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://klavierfreude.at/veranstaltungen_konzerte/">Konzerte</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="https://klavierfreude.at/veranstaltungen/">Veranstaltungen</a></li>
               <li class="divider"></li>
+
+            
             
           
         

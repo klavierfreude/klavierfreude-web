@@ -20,11 +20,6 @@
 - title: Veranstaltungen
   url: "/veranstaltungen/"
   side: left
-  dropdown:
-  - title: "Stammtische"
-    url: "/veranstaltungen_stammtische/"
-  - title: "Konzerte"
-    url: "/veranstaltungen_konzerte/"
 
 - title: Rechtliches 
   url: "/impressum"
