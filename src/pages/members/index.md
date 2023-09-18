@@ -8,7 +8,6 @@ language: de
 
 ---
 
-## Unsere Mitglieder
 
 ### Ehrenmitglieder
 
