@@ -24,7 +24,10 @@ Welcome to <b>Klavierfreude</b>, a networking initiative for professional and am
 
 ## Events <a name="Veranstaltungen"/>
 
-{% include list-posts entries='3' category='Veranstaltungen' %}
+&nbsp;<br>
+
+[Stammtisch am 13. Oktober 2023, 19 Uhr](/veranstaltungen/stammtische/stammtisch-2023-10-13/)
+
 
 
 

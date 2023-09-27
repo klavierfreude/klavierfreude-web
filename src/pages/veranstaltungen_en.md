@@ -11,6 +11,12 @@ language_de: "/veranstaltungen/"
 ---
 
 
-{% include list-posts category='Veranstaltungen' %}
+### Upcoming events
+
+{% include list-posts tag="geplant" %}
+
+### Past events
+
+{% include list-posts tag="vergangen" %}
 
 

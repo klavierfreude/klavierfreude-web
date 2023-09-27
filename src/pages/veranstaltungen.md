@@ -10,7 +10,10 @@ language_en: "/veranstaltungen_en/"
 
 ---
 
+### Demnächst
 
-{% include list-posts category='Veranstaltungen' %}
+{% include list-posts tag="geplant" %}
 
+### Vergangene Veranstaltungen
 
+{% include list-posts tag="vergangen" %}
