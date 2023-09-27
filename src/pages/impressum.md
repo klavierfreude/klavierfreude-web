@@ -14,7 +14,7 @@ Engerthstraße 202/20<br>
 
 ZVR: 1575087713
 
-📧<a href="mailto:info@klavierfreude.at">info@klavierfreude.at</a>
+📧<a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a>
 
 Vertretung:
 * Obfrau: Eunju Lee

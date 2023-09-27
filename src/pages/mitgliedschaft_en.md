@@ -27,5 +27,6 @@ language_de: /mitgliedschaft/
 ### Would you like to become a member?
 
 
-Please download and fill out the <a href="/verein-klavierfreude-beitrittsformular.pdf">membership form</a> and send it to us: <a href="mailto:beitritt@klavierfreude.at">beitritt@klavierfreude.at</a>
+Please download and fill out the <a href="/verein-klavierfreude-beitrittsformular.pdf">membership form</a> 
+and send it to us: <a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a>
 
