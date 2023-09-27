@@ -11,11 +11,11 @@ language_de: "/veranstaltungen/"
 ---
 
 
-### Upcoming events
 
 {% include list-posts tag="geplant" %}
 
-### Past events
+
+&nbsp;<br>
 
 {% include list-posts tag="vergangen" %}
 
