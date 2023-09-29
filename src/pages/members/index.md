@@ -17,6 +17,7 @@ language: de
 
 * Lindsey Huff
 * Eunju Lee
+* Junghyun Lee
 * Julia Müller
 * Johann Petrak
 * Isabel Weiser
