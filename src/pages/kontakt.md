@@ -8,9 +8,9 @@ header:
 ---
 
 
-* <span>📧&nbsp;Email: <a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a></span>
-* <span class="icon-facebook">&nbsp;Facebook: [KlavierfreudeWien](https://www.facebook.com/klavierfreudewien)
-* <span class="icon-instagram">&nbsp;Instagram: [klavierfreudewien](https://www.instagram.com/klavierfreudewien)
-* <span class="icon-youtube">&nbsp;YouTube: [@klavierfreude](http://www.youtube.com/@klavierfreude)
+<span>📧&nbsp;Email: <a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a></span><br>
+<span class="icon-facebook">&nbsp;Facebook: [KlavierfreudeWien](https://www.facebook.com/klavierfreudewien)<br>
+<span class="icon-instagram">&nbsp;Instagram: [klavierfreudewien](https://www.instagram.com/klavierfreudewien)<br>
+<span class="icon-youtube">&nbsp;YouTube: [@klavierfreude](http://www.youtube.com/@klavierfreude)<br>
 
 
