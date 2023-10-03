@@ -20,3 +20,10 @@ language_de: "/veranstaltungen/"
 {% include list-posts tag="vergangen" %}
 
 
+
+### Concerts of our active members
+
+{% include list-posts tag="extern" %}
+
+
+
