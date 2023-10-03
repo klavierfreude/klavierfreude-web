@@ -17,7 +17,7 @@ language_en: "/veranstaltungen_en/"
 
 {% include list-posts tag="vergangen" %}
 
-### Konzerte unserer aktiven Mitglieder
+### Veranstaltungen mit Klavierfreude-Pianist:innen
 
-{% include list-posts tag="extern" %}
+{% include list-posts tag="extern-geplant" %}
 
