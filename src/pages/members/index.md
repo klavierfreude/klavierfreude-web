@@ -15,7 +15,9 @@ language: de
 
 ### Aktive Mitglieder
 
+* Gregor Horvath
 * Lindsey Huff
+* Julianna Kiss
 * Eunju Lee
 * Junghyun Lee
 * Julia Müller
