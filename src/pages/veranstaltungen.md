@@ -17,7 +17,7 @@ language_en: "/veranstaltungen_en/"
 
 {% include list-posts tag="vergangen" %}
 
-## Konzerte unserer Mitglieder
+### Konzerte unserer aktiven Mitglieder
 
 {% include list-posts tag="extern" %}
 
