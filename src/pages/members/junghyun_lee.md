@@ -8,9 +8,9 @@ language: de
 
 ---
 
-* Pianistin, Korrepetitorin, Organistin
-* Bachelor of Music, Master of Music (Konzertfach Klavier)
-* Master of Arts (Vokalkorrepetition Lied und Oratorium)
-* Homepage: [https://junghyun-elisabeth-lee.com](https://junghyun-elisabeth-lee.com)
-* YouTube: [@junghyun.LEE.elisabeth](https://www.youtube.com/@junghyun.LEE.elisabeth)
+Pianistin, Korrepetitorin, Organistin<br>
+Bachelor of Music, Master of Music (Konzertfach Klavier)<br>
+Master of Arts (Vokalkorrepetition Lied und Oratorium)<br>
+Homepage: [https://junghyun-elisabeth-lee.com](https://junghyun-elisabeth-lee.com)<br>
+YouTube: [@junghyun.LEE.elisabeth](https://www.youtube.com/@junghyun.LEE.elisabeth)<br>
 
