@@ -15,7 +15,6 @@ Vernetzungsinitiative von Profi- und Amateurpianist:innen in Wien!
 
 ## <a href="/veranstaltungen/">Aktuelles</a> <a name="Veranstaltungen"/>
 
-&nbsp;<br>
 
 {% include list-posts tag="geplant" %}
 

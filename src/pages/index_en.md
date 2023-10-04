@@ -24,7 +24,6 @@ Welcome to <b>Klavierfreude</b>, a networking initiative for professional and am
 
 ## Events <a name="Veranstaltungen"/>
 
-&nbsp;<br>
 
 {% include list-posts tag="geplant" %}
 

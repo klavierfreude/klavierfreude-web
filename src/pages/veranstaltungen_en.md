@@ -14,8 +14,7 @@ language_de: "/veranstaltungen/"
 
 {% include list-posts tag="geplant" %}
 
-
-&nbsp;<br>
+----
 
 {% include list-posts tag="vergangen" sort="reverse"  %}
 
