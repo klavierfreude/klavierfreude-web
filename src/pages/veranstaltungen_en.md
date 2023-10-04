@@ -21,7 +21,7 @@ language_de: "/veranstaltungen/"
 
 
 
-### Concerts of our active members
+### Events with Klavierfreude-pianists
 
 {% include list-posts tag="extern" %}
 
