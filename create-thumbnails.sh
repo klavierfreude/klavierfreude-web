@@ -3,7 +3,7 @@
 # For better ways, check out https://legacy.imagemagick.org/Usage/thumbnails/
 # TODO: additional loop for pngs
 
-for i in *.jpg
+for i in `ls *.jpg | grep -v thumb`
 do
   n=`basename $i .jpg`
   # if the thumbnail file already exists, skip
