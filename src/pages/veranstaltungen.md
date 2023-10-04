@@ -15,7 +15,7 @@ language_en: "/veranstaltungen_en/"
 
 &nbsp;<br>
 
-{% include list-posts tag="vergangen" %}
+{% include list-posts tag="vergangen" sort="reverse" %}
 
 ### Veranstaltungen mit Klavierfreude-Pianist:innen
 

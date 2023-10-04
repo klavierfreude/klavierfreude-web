@@ -17,7 +17,7 @@ Vernetzungsinitiative von Profi- und Amateurpianist:innen in Wien!
 
 &nbsp;<br>
 
-[Stammtisch am 13. Oktober 2023, 19 Uhr](/veranstaltungen/stammtische/stammtisch-2023-10-13/)
+{% include list-posts tag="geplant" %}
 
 
 

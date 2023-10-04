@@ -17,13 +17,13 @@ language_de: "/veranstaltungen/"
 
 &nbsp;<br>
 
-{% include list-posts tag="vergangen" %}
+{% include list-posts tag="vergangen" sort="reverse"  %}
 
 
 
 ### Events with Klavierfreude-pianists
 
-{% include list-posts tag="extern" %}
+{% include list-posts tag="extern-geplant" %}
 
 
 

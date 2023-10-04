@@ -4,8 +4,8 @@
 *
 *    › entries
 *    › offset
-*    › EITHER category OR tag OR none of those
-*    › sort: either missing (ascending) or "reverse" (descending)
+*    › category
+*    › tag
 *
 *   Example for Category: {% include list-posts entries='3' offset='1' category='design' %}
 *
@@ -29,32 +29,32 @@
 {% endif %}
 
 
-
 {% assign category = include.category %}
 {% assign tag = include.tag %}
-{% assign sort = include.sort %}
-
-{% if sort == "reverse" %}
-  {% assign posts = site.posts | sort: 'event_date' | reverse   %}
-{% else %}
-  {% assign posts = site.posts | sort: 'event_date'  %}
-{% endif %}  
-
-{% if category != NULL %}
-  {% assign posts = posts | where_exp: "item", "item.categories contains category"  %}
-{% endif %}  
-
-{% if tag != NULL %}
-  {% assign posts = posts | where_exp: "item", "item.tags contains tag"  %}
-{% endif %}  
-
-{% assign posts = posts limit:include.entries offset:include.offset %}
-
-
 <ul class="side-nav">
-    {% for post in posts %}
+
+  {% if category == NULL and tag == NULL %}
+
+    {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ langdata.more }}</strong></a></li>
+
+
+  {% elsif category %}
+
+    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+    {% endfor %}
+      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ langdata.more }}</strong></a></li>
+
+
+  {% elsif tag %}
+
+    {% for post in site.tags.[tag] limit:include.entries %}
+      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+    {% endfor %}
+
+  {% endif %}
 </ul>
 

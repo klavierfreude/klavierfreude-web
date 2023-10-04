@@ -26,7 +26,7 @@ Welcome to <b>Klavierfreude</b>, a networking initiative for professional and am
 
 &nbsp;<br>
 
-[Stammtisch am 13. Oktober 2023, 19 Uhr](/veranstaltungen/stammtische/stammtisch-2023-10-13/)
+{% include list-posts tag="geplant" %}
 
 
 
