@@ -14,6 +14,8 @@ Engerthstraße 202/20<br>
 
 ZVR: 1575087713
 
+Konto: AT59 2011 1848 9293 7700, BIC GIBAATWWXXX
+
 📧<a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a>
 
 Vertretung:
