@@ -15,13 +15,13 @@ language: de
 
 ### Aktive Mitglieder
 
-* Gregor Horvath
-* Lindsey Huff
+* [Gregor Horvath](/members/gregor_horvath)
+* [Lindsey Huff](/members/lindsey_huff)
 * Julianna Kiss
 * Eunju Lee
-* Junghyun Lee
+* [Junghyun Lee](junghyun_lee)
 * Julia Müller
-* Johann Petrak
-* Isabel Weiser
+* [Johann Petrak](johann_petrak)
+* [Isabel Weiser](isabel_weiser]
 
 
