@@ -9,9 +9,6 @@ language: de
 ---
 
 
-Als Kind hatte ich ein paar Jahre eher erfolglosen Klavier- und Geigenunterricht.
-Erst als Erwachsener habe ich immer mal wieder neben meiner meist stressigen Arbeit etwas 
-Klavierspielen als Ausgleich entdeckt, nur für mich selbst und meist auf einem E-Piano mit Kopfhörern.
-Seit 2019 habe ich begonnen, etwas öfter zu spielen und besonders macht es Spaß, mit anderen gemeinsam zu musizieren. 
+Johann erhielt als Kind einige Jahre Klavier- und Geigenunterricht, entdeckte das Klavierspielen aber erst im Erwachsenenalter als Ausgleich zur Arbeit für sich. Nachdem er immer wieder zuhause für sich selbst spielte, meist auf einem E-Piano mit Kopfhörern, intensivierte er seit 2019 das Klavierspielen und hat besonders Spaß daran, mit anderen gemeinsam zu musizieren.
 
 Berufliche Homepage: [https://johann-petrak.github.io/](https://johann-petrak.github.io/)
