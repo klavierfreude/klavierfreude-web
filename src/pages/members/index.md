@@ -19,9 +19,9 @@ language: de
 * [Lindsey Huff](/members/lindsey_huff)
 * Julianna Kiss
 * Eunju Lee
-* [Junghyun Lee](junghyun_lee)
+* [Junghyun Lee](/members/junghyun_lee)
 * Julia Müller
-* [Johann Petrak](johann_petrak)
-* [Isabel Weiser](isabel_weiser]
+* [Johann Petrak](/members/johann_petrak)
+* [Isabel Weiser](/members/isabel_weiser)
 
 
