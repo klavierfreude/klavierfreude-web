@@ -24,7 +24,7 @@ permalink: "blog/archive/"
                         {% assign posts = site.posts limit:1000 | sort: 'event_date' | reverse %}
 			{% for post in posts %}
 			<dd >
-			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+			<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 			</dd>
 			{% endfor %}
 		</dl>
