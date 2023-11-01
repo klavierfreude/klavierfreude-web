@@ -6,25 +6,26 @@ title: Eunju Lee
 permalink: /members/eunju_lee_en/
 language: en
 language_de: /members/eunju_lee/
-language_ko: /members/eunju_lee_ko/
+# language_ko: /members/eunju_lee_ko/
 
 ---
 
 ### Mag.<sup>a</sup> art. Senior Lecturer at the University of Music and Performing Arts, Vienna
 
 <img src="/images/LeeEunju3.jpg" align="left" width="200px" hspace="10" vspace="10">
-Eun-Ju Lee was born and raised in South Korea. Since moving to Vienna to study at the age of 15, she has remained to call this city her home.
 
-She studied at the then Konservatorium der Stadt Wien, now the Music and Arts University of the City of Vienna (Musik und Kunst Privatuniversität der Stadt Wien) where she graduated, receiving two Master of Arts degrees, in piano performance with Thomas Kreuzberger and opera coaching with Kristin Okerlund. Subsequently she continued her postgraduate studies at the University of Music and Performing Arts Vienna (Universität für Musik und darstellende Kunst Wien). She attended master classes with international Artists including
 
-Leonid Brumberg, Krassimira Jordan, Noel Flores, Heinz Medjimorec, und Till Enger and was awarded prices at various Austrian and international competitions.
+Born and raised in South Korea, Eun-Ju Lee decided to leave her home and relocate to Vienna for her music studies at the age of 15.
 
-Numerous performances as a solo pianist followed, in the Vienna Konzerthaus, at the Baylor University of Texas, in the Steinwayhaus Vienna, in the Radiokulturhaus Vienna, but also performances with orchestras such as with the Daegu City Symphony Orchestra in South Korea, piano concerts with orchestra in Brno, with the Seoul Philharmonic Orchestra, with the Orchestra Sinfoniker A and with the Prime Philharmonic Orchestra in South Korea, as well as regular concerts at the Vienna Festival and since 2022 in the Mozarthaus Vienna. In March 2022, together with Taro Morikawa, she organized a benefit concert in Vienna for Ukrainian refugees.
+She stidied at the Conservatory of the City of Vienna, now the Music and Arts Private University of the City of Vienna (Musik und Kunst Privatuniversität der Stadt Wien), where she completed her piano performance studies under the guidance of Prof. Thomas Kreuzberger and earned a Master of Arts degree in Opera Accompaniment under Prof. Kristin Okerlund. She continued her postgraduate studies with Prof. Konrad Leitner at the University of Music and Performing Arts in Vienna (Universität für Musik und darstellende Kunst Wien). She participated in masterclasses with international artists such as Leonid Brumberg, Krassimira Jordan, Noel Flores, Heinz Medjimorec, and Till Enger, and was winning awards in various national and international competitions.
 
-She also performed in duo concerts, among others with Thomas Kreuzberger, John Wilson or Hunrak Choi. In 2022 she founded the NaNum Trio with violinist Sanghee Cheong and cellist Daesun Koh.
+She went on to perform as a solo pianist, making her debut at the Wiener Konzerthaus, then at the Baylor University of Texas, Steinway-Haus Wien, and Radiokulturhaus Wien. She also performed with orchestras such as the Daegu City Symphony Orchestra in South Korea, piano concertos with orchestras in Brno, the Seoul Philharmonic Orchestra, the Sinfoniker A Orchestra, and the Prime Philharmonic Orchestra in South Korea. She regularly gave concerts at the Kulturkreis Mariahilf and, since 2022, as a member of the Wiener Ensemble piano trio at the Mozarthaus Wien. In March 2022, she organized a charity concert for Ukraine at Palais Auersperg in Vienna in collaboration with Taro Morikawa. Her career also includes performances as a duo with artists like Thomas Kreuzberger, John Wilson, or Hunrak Choi.
 
-In addition to her artistic work, Eun-Ju Lee began teaching piano at the University of Music and Performing Arts Vienna in 2013, and has been a senior lecturer there since 2020.
+In June 2023, she co-founded the Klavierfreude association ([klavierfreude.at](https://klavierfreude.at)) with Lindsey Huff and Isabel Weiser, actively promoting and disseminating piano music. Immediately after, in July 2023, she was invited as a piano instructor to the music festival in Zell am See (musikfestivalzellamsee.at).
 
-The musical promotion of young musicians is also important to her and she therefore also has a position at the Vienna Music School, where she supports young people on their musical path and where she accompanies at 'prima la musica' performances.
+For the year 2023, there are plans for a piano duo concert with pianist Julianna Kiss in Budapest and another project in Vienna. In collaboration with the Korea Culture Center Vienna, there will be the "Beauty of Absence" project in December, exploring the fusion of senses through Western music and Korean visual art. There are already plans for February 2024, including an invitation to perform a concert with the Pitiesti Philharmonic in Romania, featuring Beethoven's demanding 3rd Piano Concerto.
 
+She is also passionate about nurturing the musical talents of young people. In addition to her work at the University of Music and Performing Arts Vienna, she held a position at the Vienna Music Schools for many years, supporting young musicians on their musical journey. She accompanied them in performances at 'prima la musica' for several years and served as a jury member in both 2022 and 2024.
+
+Apart from her artistic endeavors, Eun-Ju Lee began teaching piano at the University of Music and Performing Arts Vienna in 2013 and has been a Senior Lecturer there since 2020.
 
