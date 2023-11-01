@@ -28,5 +28,5 @@ For the year 2023, there are plans for a piano duo concert with pianist Julianna
 She is also passionate about nurturing the musical talents of young people. In addition to her work at the University of Music and Performing Arts Vienna, she held a position at the Vienna Music Schools for many years, supporting young musicians on their musical journey. She accompanied them in performances at 'prima la musica' for several years and served as a jury member in both 2022 and 2024.
 
 Apart from her artistic endeavors, Eun-Ju Lee began teaching piano at the University of Music and Performing Arts Vienna in 2013 and has been a Senior Lecturer there since 2020 
-[https://www.mdw.ac.at/musikleitung/?PageId=4191](https://www.mdw.ac.at/musikleitung/?PageId=4191).
+([https://www.mdw.ac.at/musikleitung/?PageId=4191](https://www.mdw.ac.at/musikleitung/?PageId=4191)).
 

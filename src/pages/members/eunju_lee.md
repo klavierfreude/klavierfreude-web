@@ -59,4 +59,4 @@ und sowohl 2022 als auch wieder 2024 als Jury-Mitglied bewertete.
 
 Neben ihrer künstlerischen Tätigkeit begann Eun-Ju Lee im Jahr 2013 an der Universität für Musik
 und darstellende Kunst Wien das Fach Klavier zu unterrichten und ist dort seit 2020 Senior
-Lecturer ([https://www.mdw.ac.at/musikleitung/?PageId=4191](https://www.mdw.ac.at/musikleitung/?PageId=4191).
+Lecturer ([https://www.mdw.ac.at/musikleitung/?PageId=4191](https://www.mdw.ac.at/musikleitung/?PageId=4191)).
