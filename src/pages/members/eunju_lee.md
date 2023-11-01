@@ -39,7 +39,7 @@ Ebenso reihen sich Auftritte im Duo, unter anderem mit Thomas Kreuzberger, John 
 Hunrak Choi in ihre Laufbahn ein.
 
 Im Juni 2023, gründete sie mit Lindsey Huff und Isabel Weiser den Verein Klavierfreude
-(klavierfreude.at), wo sie sich aktiv für die Förderung und Verbreitung der Klaviermusik engagiert.
+([klavierfreude.at](klavierfreude.at)), wo sie sich aktiv für die Förderung und Verbreitung der Klaviermusik engagiert.
 Unmittelbar danach, im Juli 2023, war sie als Klavier Dozentin zum Musikfestival in Zell am See
 eingeladen ([musikfestivalzellamsee.at](musikfestivalzellamsee.at)).
 
