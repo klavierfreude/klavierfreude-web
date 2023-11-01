@@ -41,7 +41,7 @@ Hunrak Choi in ihre Laufbahn ein.
 Im Juni 2023, gründete sie mit Lindsey Huff und Isabel Weiser den Verein Klavierfreude
 (klavierfreude.at), wo sie sich aktiv für die Förderung und Verbreitung der Klaviermusik engagiert.
 Unmittelbar danach, im Juli 2023, war sie als Klavier Dozentin zum Musikfestival in Zell am See
-eingeladen (musikfestivalzellamsee.at).
+eingeladen ([musikfestivalzellamsee.at](musikfestivalzellamsee.at)).
 
 Damit nicht genug ist für das Jahr 2023 noch ein Klavier Duo Konzert mit Pianistin Julianna Kiss in
 Budapest und ein weiteres Projekt in Wien geplant. In Zusammenarbeit mit dem Korea
@@ -59,4 +59,4 @@ und sowohl 2022 als auch wieder 2024 als Jury-Mitglied bewertete.
 
 Neben ihrer künstlerischen Tätigkeit begann Eun-Ju Lee im Jahr 2013 an der Universität für Musik
 und darstellende Kunst Wien das Fach Klavier zu unterrichten und ist dort seit 2020 Senior
-Lecturer.
+Lecturer ([https://www.mdw.ac.at/musikleitung/?PageId=4191](https://www.mdw.ac.at/musikleitung/?PageId=4191).
