@@ -6,6 +6,7 @@
 *    › offset
 *    › EITHER category OR tag OR none of those
 *    › sort: either missing (ascending) or "reverse" (descending)
+*    › empty: text to show if there are no entries to show
 *
 *   Example for Category: {% include list-posts entries='3' offset='1' category='design' %}
 *
@@ -33,6 +34,7 @@
 {% assign category = include.category %}
 {% assign tag = include.tag %}
 {% assign sort = include.sort %}
+{% assign emptytxt = include.emptytxt %}
 
 {% if sort == "reverse" %}
   {% assign posts = site.posts | sort: 'event_date' | reverse   %}
@@ -44,6 +46,10 @@
   {% assign posts = posts | where_exp: "item", "item.categories contains category"  %}
 {% endif %}  
 
+{% if emptytxt == NULL %}
+  {% assign emptytxt = "Info folgt!" %}
+{% endif %}
+
 {% if tag != NULL %}
   {% assign posts = posts | where_exp: "item", "item.tags contains tag"  %}
 {% endif %}  
@@ -51,9 +57,12 @@
 {% assign posts = posts limit:include.entries offset:include.offset %}
 
 
-<ul class="side-nav">
-    {% for post in posts %}
-      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-    {% endfor %}
-</ul>
-
+{% if posts.size == 0 %}
+  {{ emptytxt }} 
+{% else %}
+  <ul class="side-nav">
+  {% for post in posts %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+  {% endfor %}
+  </ul>
+{% endif %}

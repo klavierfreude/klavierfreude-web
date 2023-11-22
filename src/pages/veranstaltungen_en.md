@@ -12,7 +12,7 @@ language_de: "/veranstaltungen/"
 
 
 
-{% include list-posts tag="geplant" %}
+{% include list-posts tag="geplant" emptytxt="Details on next events following soon ..." %}
 
 ----
 
@@ -22,7 +22,7 @@ language_de: "/veranstaltungen/"
 
 ### Events with Klavierfreude-pianists
 
-{% include list-posts tag="extern-geplant" %}
+{% include list-posts tag="extern-geplant" emptytxt="Details on next events following soon ..." %}
 
 
 
