@@ -17,7 +17,7 @@ language: de
 
 * [Gregor Horvath](/members/gregor_horvath)
 * [Lindsey Huff](/members/lindsey_huff)
-* Eunhee Kim
+* [Eunhee Kim](/members/eunhee_kim)
 * Julianna Kiss
 * [Eunju Lee](/members/eunju_lee)
 * [Junghyun Lee](/members/junghyun_lee)

@@ -12,7 +12,7 @@ language_en: /members/eunju_lee_en/
 
 ### Mag.<sup>a</sup> art., Senior Lecturer an der Universität für Musik und Darstellende Kunst, Wien
 
-<img src="/images/LeeEunju3.jpg" align="left" width="200px" hspace="10" vspace="10">
+<a href="/images/LeeEunju3.jpg"><img src="/images/LeeEunju3.jpg" align="left" width="200px" hspace="10" vspace="10"></a>
 
 
 Geboren und aufgewachsen in Südkorea entschied sich Eun-Ju Lee bereits im Alter von 15
