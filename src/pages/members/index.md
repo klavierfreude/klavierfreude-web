@@ -19,6 +19,7 @@ language: de
 * [Lindsey Huff](/members/lindsey_huff)
 * [Eunhee Kim](/members/eunhee_kim)
 * Julianna Kiss
+* Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
 * [Junghyun Lee](/members/junghyun_lee)
 * Julia Müller
