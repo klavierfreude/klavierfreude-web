@@ -26,5 +26,6 @@ language: de
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
 * [Isabel Weiser](/members/isabel_weiser)
+* Lingge Zhang 
 
 
