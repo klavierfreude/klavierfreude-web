@@ -8,4 +8,4 @@ language: de
 
 ---
 
-[https://gregor-horvath.com/auftritte.html](https://gregor-horvath.com/auftritte.html)
+[https://gregor-horvath.com/pianist.html](https://gregor-horvath.com/pianist.html)
