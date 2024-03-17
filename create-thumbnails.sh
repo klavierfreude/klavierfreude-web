@@ -3,7 +3,7 @@
 # For better ways, check out https://legacy.imagemagick.org/Usage/thumbnails/
 # TODO: additional loop for pngs
 
-for i in `ls *.jpg *.jpeg | grep -v thumb`
+for i in `ls *.jpg *.jpeg *.JPG *.JPEG *.png | grep -v thumb`
 do
   ext="${i##*.}"
   n=`basename $i .${ext}` 

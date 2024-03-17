@@ -8,7 +8,7 @@ then
   exit  1
 fi
 echo gallery:
-ls *.jpg | grep -v thumb | sed "s/^/  - image_url: \/images\/$subdir\//"
+ls *.jpg *.JPG *.jpeg *.JPEG *.png | grep -v thumb | sed "s/^/  - image_url: \/images\/$subdir\//"
 
 echo 
 echo 
