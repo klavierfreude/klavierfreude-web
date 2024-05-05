@@ -35,6 +35,7 @@
 {% assign tag = include.tag %}
 {% assign sort = include.sort %}
 {% assign emptytxt = include.emptytxt %}
+{% assign entries = include.entries %}
 
 {% if sort == "reverse" %}
   {% assign posts = site.posts | sort: 'event_date' | reverse   %}
@@ -54,14 +55,17 @@
   {% assign posts = posts | where_exp: "item", "item.tags contains tag"  %}
 {% endif %}  
 
-{% assign posts = posts limit:include.entries offset:include.offset %}
+
+
+{% assign posts = posts  offset:include.offset %}
 
 
 {% if posts.size == 0 %}
   {{ emptytxt }} 
 {% else %}
   <ul class="side-nav">
-  {% for post in posts %}
+  {% assign i = 0 %}
+  {% for post in posts limit:include.entries %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
   {% endfor %}
   </ul>

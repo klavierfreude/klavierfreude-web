@@ -20,6 +20,11 @@
 - title: Events
   url: "/veranstaltungen_en/"
   side: left
+  dropdown:
+  - title: "Current"
+    url: "/veranstaltungen_en/"
+  - title: "Archive"
+    url: "/blog/archive/"
 
 - title: Legal
   url: "/impressum/"
