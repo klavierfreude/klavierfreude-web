@@ -17,3 +17,12 @@ Tested with:
 * rbenv 1.1.2
 
 See: https://jekyllrb.com/docs/installation/ubuntu/
+
+After installing all those:
+* `cd src`
+* `bundle install`
+* `cd ..`
+
+After this the following should work when running from the root directory of the repo:
+* to generate site: `./make.sh`
+* to test with local server: `./test-locally.sh`
