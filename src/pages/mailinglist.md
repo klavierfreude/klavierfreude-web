@@ -14,7 +14,9 @@ Alle Mitglieder (aktive und passive) sind herzlich eingeladen, unserer Email Gru
 In dieser Gruppe können wir alle Ideen für Veranstaltungen des Vereins, Konzertprogramme, Termine, Spielstätten und
 vieles andere diskutieren. 
 
-Um der Gruppe beizutreten, bitte die Emailadresse auf dieser Seite eingeben: [https://groups.io/g/Klavierfreude/join](https://groups.io/g/Klavierfreude/join)
+Um der Gruppe beizutreten, bitte die Emailadresse auf dieser Seite eingeben: 
+
+[https://groups.io/g/Klavierfreude/join](https://groups.io/g/Klavierfreude/join)
 
 Damit nur Mitglieder des Vereins beitreten können, werden Beitritte manuell geprüft, es kann also vielleicht einige Zeit dauern,
 bis der Beitritt erfolgt ist. 
