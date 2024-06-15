@@ -6,7 +6,7 @@ header:
 
 permalink: /mailinglist_en/
 language: en
-language_de: /mailinglist_de/
+language_de: /mailinglist/
 
 ---
 
