@@ -29,8 +29,8 @@ get it in your inbox, please check there as well.
 
 The email group is for discussion in German or English. 
 
-After joining the group, you can send an Email to all members of the group  using the address klavierfreude.wien@gmail.com.
+After joining the group, you can send an Email to all members of the group  using the address `klavierfreude.wien@gmail.com`.
 
 You can also use the group's web pages to:
-* create and send messages:  https://groups.io/g/Klavierfreude/post
-* read messages:  https://groups.io/g/Klavierfreude/messages
+* create and send messages:  [https://groups.io/g/Klavierfreude/post](https://groups.io/g/Klavierfreude/post)
+* read messages:  [https://groups.io/g/Klavierfreude/messages](https://groups.io/g/Klavierfreude/messages)

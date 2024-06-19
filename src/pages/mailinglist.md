@@ -33,8 +33,8 @@ landet.
 In der Gruppe können sich Mitglieder gernde auf Deutsch oder Englisch austauschen. 
 
 
-Nachdem man der Gruppe beigetreten ist, kann man eine Nachricht an alle mit der Adresse klavierfreude.wien@gmail.com schicken.
+Nachdem man der Gruppe beigetreten ist, kann man eine Nachricht an alle mit der Adresse `klavierfreude.wien@gmail.com` schicken.
 
 Man kann Nachrichten auch direkt über die Webpage:
-* Erstellen und senden:  https://groups.io/g/Klavierfreude/post
-* Lesen:  https://groups.io/g/Klavierfreude/messages
+* Erstellen und senden:  [https://groups.io/g/Klavierfreude/post](https://groups.io/g/Klavierfreude/post)
+* Lesen:  [https://groups.io/g/Klavierfreude/messages](https://groups.io/g/Klavierfreude/messages)
