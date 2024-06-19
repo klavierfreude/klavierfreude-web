@@ -14,6 +14,8 @@ Alle Mitglieder (aktive und passive) sind herzlich eingeladen, unserer Email Gru
 In dieser Gruppe können wir alle Ideen für Veranstaltungen des Vereins, Konzertprogramme, Termine, Spielstätten und
 vieles andere diskutieren. 
 
+## Beitreten
+
 Um der Gruppe beizutreten, bitte die Emailadresse auf dieser Seite eingeben: 
 
 [https://groups.io/g/Klavierfreude/join](https://groups.io/g/Klavierfreude/join)
@@ -25,4 +27,14 @@ Die Webseite schickt auch eine Bestätigungs-Email um sicherzustellen, dass nur 
 den Link oder Button in der Bestätigungs-Email klicken! Es kann manchmal passieren dass diese Email im Spam-Folder 
 landet. 
 
+
+## Diskutieren
+
 In der Gruppe können sich Mitglieder gernde auf Deutsch oder Englisch austauschen. 
+
+
+Nachdem man der Gruppe beigetreten ist, kann man eine Nachricht an alle mit der Adresse klavierfreude.wien@gmail.com schicken.
+
+Man kann Nachrichten auch direkt über die Webpage:
+* Erstellen und senden:  https://groups.io/g/Klavierfreude/post
+* Lesen:  https://groups.io/g/Klavierfreude/messages
