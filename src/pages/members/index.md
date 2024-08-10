@@ -22,6 +22,7 @@ language: de
 * Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
 * [Junghyun Lee](/members/junghyun_lee)
+* Elisabed Mamradze
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
 * [Isabel Weiser](/members/isabel_weiser)
