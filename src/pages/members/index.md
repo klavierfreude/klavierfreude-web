@@ -17,6 +17,7 @@ language: de
 
 * [Gregor Horvath](/members/gregor_horvath)
 * [Lindsey Huff](/members/lindsey_huff)
+* Hana Juric
 * [Eunhee Kim](/members/eunhee_kim)
 * Julianna Kiss
 * Greg Kolanek
