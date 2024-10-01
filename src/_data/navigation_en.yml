@@ -16,6 +16,8 @@
     url: "/team/" 
   - title: "Members"
     url: "/members/"
+  - title: "Meetup Group"
+    url: /meetup_en/
   - title: "Email Group"
     url: "/mailinglist_en/"
 

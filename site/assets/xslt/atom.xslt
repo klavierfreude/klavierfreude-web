@@ -178,6 +178,11 @@
 
                       
 
+                      <li><a  href="https://klavierfreude.at/meetup/">Meetup Gruppe</a></li>
+                    
+
+                      
+
                       <li><a  href="https://klavierfreude.at/mailinglist/">Email Gruppe</a></li>
                     
                   </ul>
