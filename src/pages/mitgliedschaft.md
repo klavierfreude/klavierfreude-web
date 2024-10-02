@@ -30,3 +30,8 @@ Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur, ...
 ### Du möchtest Mitglied werden?
 
 <a href="/verein-klavierfreude-beitrittsformular.pdf">Hier Beitrittsformular herunterladen,</a> ausfüllen und an <a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.wien@gmail.com</a> senden
+
+* Die Mitgliedschaft verlängert sich automatisch um ein Jahr wenn sie nicht ausdrücklich beendet wird
+* Die Beendigung der Mitgliedschaft sollte spätestens 2 Monate vor dem Ablauf des aktuellen Jahres per email erfolgen
+* Die Mitgliedsgebühr ist im Voraus für jedes Jahr an den Verein zu überweisen
+* Alle Details sind im Beitrittsformular ersichtlich
