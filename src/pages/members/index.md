@@ -22,10 +22,10 @@ language: de
 * Julianna Kiss
 * Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
-* [Junghyun Lee](/members/junghyun_lee)
 * Elisabed Mamradze
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
+* Wuel Wang
 * [Isabel Weiser](/members/isabel_weiser)
 * Lingge Zhang 
 
