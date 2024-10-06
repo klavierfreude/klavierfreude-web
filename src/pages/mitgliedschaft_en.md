@@ -35,4 +35,5 @@ and send it to us: <a href="mailto:klavierfreude.wien@gmail.com">klavierfreude.w
 * Membership is automatically prolonged for another year unless the member explicitly terminates membership
 * Termination of membership should get announed by email to Klavierfreude at the latest 2 month before the end of the current membership year
 * Membership fees are payable to Klavierfreude in advance for every year of membership
-* All the details are contained in the [membership form](/verein-klavierfreude-beitrittsformular_en.pdf)
+* All the details are contained in the [membership form](/verein-klavierfreude-beitrittsformular_en.pdf) and the 
+  [official statutes of the association](/statuten.pdf) (in German)

@@ -24,3 +24,4 @@ Vertretung:
 
 Siehe [Verein "Klavierfreude" Team](/team/)
 
+[Vereinsstatuten](/statuten.pdf)
