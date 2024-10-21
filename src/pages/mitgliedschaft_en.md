@@ -18,12 +18,15 @@ language_de: /mitgliedschaft/
 * These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
 * Access to [our email discussion group for members only](/mailinglist_en/)
 * If desired, a personal profile page under <a href="/members/">members</a> and sharing your own concerts and events on our website and <a href="/kontakt/">social media</a>
+* Membership fees are used exclusively to cover the costs of the free-attendance concerts we organize (venue rent, printing costs, etc.)
 
 ### Passive membership: 35€ for one year
 
 * Free admission to all club events
 * These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
 * Access to [our email discussion group for members only](/mailinglist_en/)
+* Membership fees are used exclusively to cover the costs of the free-attendance concerts we organize (venue rent, printing costs, e
+tc.)
 
 
 ### Would you like to become a member?

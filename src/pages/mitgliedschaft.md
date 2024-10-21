@@ -19,12 +19,14 @@ language_en: /mitgliedschaft_en/
 Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur, ...
 * Zugang zu [unserer Email-Gruppe nur für Mitglieder](/mailinglist/)
 * Auf Wunsch ein persönlicher Steckbrief unter <a href="/members/">Mitglieder</a> und Teilen deiner eigenen Konzerte und Veranstaltungen auf unserer Website und Social Media
+* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
 
 ### Passive Mitgliedschaft: 35€ für ein Jahr
 
 * Gratis Besuch aller unserer Veranstaltungen
 * Darunter regelmäßige Stammtischtreffen zum Vernetzen, Plaudern, Finden von Lehrer:innen, Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur,...
 * Zugang zu [unserer Email-Gruppe nur für Mitglieder](/mailinglist/)
+* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
 
 
 ### Du möchtest Mitglied werden?
