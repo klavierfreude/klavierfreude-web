@@ -12,21 +12,21 @@ language_en: /mitgliedschaft_en/
 
 ### Aktive Mitgliedschaft: 50€ für ein Jahr
 
+* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
 * Möglichkeit der Mitorganisation von Konzerten und sonstigen Veranstaltungen, Einbringen deiner Ideen bei der Planung
 * Möglichkeit des Spielens auf vom Verein organisierten Konzerten nach Absprache (Konzertabende finden vierteljährlich statt)
 * Gratis Besuch aller unserer Veranstaltungen
 * Darunter regelmäßige Stammtischtreffen zum Vernetzen, Plaudern, Finden von Lehrer:innen,
 Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur, ...
-* Zugang zu [unserer Email-Gruppe nur für Mitglieder](/mailinglist/)
+* Zugang zu [unserer Email-Gruppe](/mailinglist/)
 * Auf Wunsch ein persönlicher Steckbrief unter <a href="/members/">Mitglieder</a> und Teilen deiner eigenen Konzerte und Veranstaltungen auf unserer Website und Social Media
-* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
 
 ### Passive Mitgliedschaft: 35€ für ein Jahr
 
+* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
 * Gratis Besuch aller unserer Veranstaltungen
 * Darunter regelmäßige Stammtischtreffen zum Vernetzen, Plaudern, Finden von Lehrer:innen, Schüler:innen, Duo-Partner:innen, Austausch von Repertoire und Literatur,...
-* Zugang zu [unserer Email-Gruppe nur für Mitglieder](/mailinglist/)
-* Dein Mitgliedsbeitrag wird ausschließlich verwendet, um die Kosten für die Organisation unserer kostenlos zu besuchenden Konzerte (Saalmiete, Druckkosten, etc.) abzudecken.
+* Zugang zu [unserer Email-Gruppe](/mailinglist/)
 
 
 ### Du möchtest Mitglied werden?
