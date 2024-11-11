@@ -15,8 +15,7 @@ language_de: /mitgliedschaft/
 * Membership fees are used exclusively to cover the costs of the free-attendance concerts we organize (venue rent, printing costs, etc.)
 * Opportunities of co-organizing concerts and other events, bringing your ideas into the planning
 * Opportunities of playing at concerts organized by the association by arrangement (concert evenings take place every quarter)
-* Free admission to all club events
-* These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
+* Invitations to internal events, including regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
 * Access to [our email discussion group](/mailinglist_en/)
 * If desired, a personal profile page under <a href="/members/">members</a> and sharing your own concerts and events on our website and <a href="/kontakt/">social media</a>
 
@@ -24,8 +23,7 @@ language_de: /mitgliedschaft/
 
 * Membership fees are used exclusively to cover the costs of the free-attendance concerts we organize (venue rent, printing costs, e
 tc.)
-* Free admission to all club events
-* These include regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
+* Invitations to internal events, including regular get-togethers for networking, chatting, finding teachers, students, duo partners, exchanging repertoire and literature, ...
 * Access to [our email discussion group](/mailinglist_en/)
 
 

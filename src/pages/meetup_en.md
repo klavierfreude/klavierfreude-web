@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetup Group for All
+title: Meetup Group
 header:
   image_fullwidth: /images/header.png
 
@@ -9,11 +9,9 @@ language: en
 language_de: /meetup/
 
 ---
-Everyone who is enthusiastic about piano music and playing and who wants to meet for playing or just listening is
-invited to join or Meetup group:
+All our events can also be found on the platform meetup.com. If you are interested to get notified when we post new events,
+we invite you to join the Meetup group: 
    
   [https://www.meetup.com/klavierfreude/](https://www.meetup.com/klavierfreude/)
 
-Members of the Meetup group (depending on their profile settings) will get informed about all Meetups and other events
-organized by Klavierfreude.
 

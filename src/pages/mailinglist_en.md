@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Email - Group for Members
+title: Email - Group
 header:
   image_fullwidth: /images/header.png
 
@@ -10,7 +10,7 @@ language_de: /mailinglist/
 
 ---
 
-All members (active und passive) are invited to join or email group for discussing our events, concert programs,
+Via our internal email group we have a space for discussing our events, concert programs,
 dates, concert locations and many other things. 
 
 ## Joining
@@ -19,7 +19,7 @@ To join the group, please enter your email address on this page:
 
 [https://groups.io/g/Klavierfreude/join](https://groups.io/g/Klavierfreude/join)
 
-The email address will get checked manually so that only actual members of Klavierfreude can join, which can take a bit of time. 
+The email address will get checked manually, which can take a bit of time. 
 
 The web page where the group is hosted will send out a confirmation email to verify that the join request actually came from you. 
 Please click the link or button in the email to confirm this. Sometimes that email may end up in your spam folder, so if you do not 
