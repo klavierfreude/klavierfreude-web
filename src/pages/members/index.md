@@ -15,6 +15,7 @@ language: de
 
 ### Aktive Mitglieder
 
+* Xuning Han
 * [Gregor Horvath](/members/gregor_horvath)
 * [Lindsey Huff](/members/lindsey_huff)
 * Hana Juric
@@ -25,6 +26,7 @@ language: de
 * Elisabed Mamradze
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
+* Mami Tsukio
 * Wuel Wang
 * [Isabel Weiser](/members/isabel_weiser)
 * Lingge Zhang 
