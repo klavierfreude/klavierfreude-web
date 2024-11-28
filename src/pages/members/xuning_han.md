@@ -8,7 +8,6 @@ language: de
 
 ---
 
-## Xuning HAN 
 
 Xuning Han, geboren 1999, ist eine chinesische Pianistin mit Wohnsitz in Österreich. Sie begann im Alter von sechs Jahren mit dem Klavierspiel. Sie studierte bei den renommierten Klavierpädagogen Professor Wang Haibo und Professor Zhou Mingsun. Im Jahr 2017 zog sie nach Deutschland, um ihre Studien fortzusetzen, und lernte bei Professor Peter Waas, einem bekannten Pianisten und Professor an der Hochschule für Musik Franz Liszt Weimar. 
 
