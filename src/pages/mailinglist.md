@@ -27,11 +27,13 @@ landet.
 
 ## Diskutieren
 
-In der Gruppe können sich Mitglieder gernde auf Deutsch oder Englisch austauschen. 
+In der Gruppe können sich Mitglieder gernde auf Deutsch oder Englisch austauschen. Man kann sowohl nur über Email 
+diskutieren (jede Nachricht wird als Email empfangen und man kann mitdiskutieren indem man auf die Email antwortet oder
+einen neuen Beitrag an <b>`klavierfreude@groups.io`</b> schickt) als auch nur über die Webpage (man kann im Profil einstellen
+dass man keine Emails empfangen möchte, kann über die Webseite alle Nachrichten lesen und neue Beiträge oder Antworten 
+abschicken).
 
-
-Nachdem man der Gruppe beigetreten ist, kann man eine Nachricht an alle mit der Adresse `klavierfreude.wien@gmail.com` schicken.
-
-Man kann Nachrichten auch direkt über die Webpage:
+Auf der Webpage:
 * Erstellen und senden:  [https://groups.io/g/Klavierfreude/post](https://groups.io/g/Klavierfreude/post)
-* Lesen:  [https://groups.io/g/Klavierfreude/messages](https://groups.io/g/Klavierfreude/messages)
+* Lesen/Antworten:  [https://groups.io/g/Klavierfreude/messages](https://groups.io/g/Klavierfreude/messages)
+* Einstellungen anpassen: [https://groups.io/g/Klavierfreude/editsub](https://groups.io/g/Klavierfreude/editsub)
