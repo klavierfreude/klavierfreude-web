@@ -27,6 +27,7 @@ language: de
 * Gustav Pollack
 * Mami Tsukio
 * Wuel Wang
+* Kurt Vinzenz
 * [Isabel Weiser](/members/isabel_weiser)
 * Lingge Zhang 
 
