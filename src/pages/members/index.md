@@ -16,6 +16,7 @@ language: de
 ### Aktive Mitglieder
 
 * Sanghee Cheong
+* Gergely Hajdu
 * [Xuning Han](/members/xuning_han)
 * [Gregor Horvath](/members/gregor_horvath)
 * [Lindsey Huff](/members/lindsey_huff)
