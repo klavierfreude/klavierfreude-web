@@ -12,6 +12,5 @@ header:
 <span class="icon-facebook">&nbsp;Facebook: [KlavierfreudeWien](https://www.facebook.com/klavierfreudewien)<br>
 <span class="icon-instagram">&nbsp;Instagram: [klavierfreudewien](https://www.instagram.com/klavierfreudewien)<br>
 <span class="icon-youtube">&nbsp;YouTube: [@klavierfreude](http://www.youtube.com/@klavierfreude)<br>
-<span class="icon-twitter">&nbsp;Twitter: [@klavierfreude](https://twitter.com/klavierfreude)
 
 
