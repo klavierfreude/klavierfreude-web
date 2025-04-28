@@ -30,7 +30,6 @@ language: de
 * Mami Tsukio
 * Wuel Wang
 * Kurt Vinzenz
-* [Isabel Weiser](/members/isabel_weiser)
 * Lingge Zhang 
 
 
