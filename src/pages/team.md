@@ -29,13 +29,6 @@ language: de
       </p>
   </li>
   <li>
-        <a href="/members/isabel_weiser"><img src="/images/WeiserIsabel1.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  /></a>
-      
-      <p>
-        <span style="font-size: 120%">Kassierin<br><a href="/members/isabel_weiser">Isabel Weiser</a></span><br>
-      </p>
-  </li>
-  <li>
         <a href="/members/johann_petrak"><img src="/images/PetrakJohann1.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  /></a>
       
       <p>
