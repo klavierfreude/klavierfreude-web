@@ -21,7 +21,7 @@ language: de
       </p>
   </li>
   <li>
-        <a href="/members/lindsey_huff"><img src="/images/LindseyHuff2.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  /></a>
+        <a href="/members/lindsey_huff"><img src="/images/LindseyHuff3.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  /></a>
       
       <p>
         <span style="font-size: 120%">Stv. Obfrau<br><a href="/members/lindsey_huff">Lindsey Huff</a></span><br>
