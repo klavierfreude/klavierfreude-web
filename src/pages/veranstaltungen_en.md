@@ -12,7 +12,7 @@ language_de: "/veranstaltungen/"
 
 
 
-{% include list-posts tag="geplant" sort="reverse" emptytxt="Details on next events following soon ..." %}
+{% include list-posts tag="geplant" emptytxt="Details on next events following soon ..." %}
 
 ----
 

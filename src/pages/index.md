@@ -16,7 +16,7 @@ Vernetzungsinitiative von Profi- und Amateurpianist:innen in Wien!
 ## <a href="/veranstaltungen/">Aktuelles</a> <a name="Veranstaltungen"/>
 
 
-{% include list-posts tag="geplant" sort="reverse" emptytxt="Infos zu neuen Klavierfreude-Veranstaltungen folgen ...<br><a href=\"/veranstaltungen\">Alle Veranstaltungen</a>" %}
+{% include list-posts tag="geplant" emptytxt="Infos zu neuen Klavierfreude-Veranstaltungen folgen ...<br><a href=\"/veranstaltungen\">Alle Veranstaltungen</a>" %}
 
 
 

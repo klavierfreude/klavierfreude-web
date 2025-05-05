@@ -11,7 +11,7 @@ language_en: "/veranstaltungen_en/"
 ---
 
 
-{% include list-posts tag="geplant" sort="reverse" emptytxt="Info zur nächsten Veranstaltung folgt..." %}
+{% include list-posts tag="geplant" emptytxt="Info zur nächsten Veranstaltung folgt..." %}
 
 ----
 
