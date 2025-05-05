@@ -29,6 +29,15 @@ language: de
       </p>
   </li>
   <li>
+        <a href="/members/sanghee_cheong"><img src="/images/SangheeCheong1s.jpg"  width="500em" height="900em" style="object-fit: scale-down !important; "  /></a>
+  
+      <p>
+        <span style="font-size: 120%">Kassierin<br><a href="/members/lindsey_huff">Sanghee Cheong</a></span><br>
+        <span class="icon-facebook">&nbsp;<a href="https://www.facebook.com/sanicheong">Facebook</a></span>
+      </p>
+  </li>
+
+  <li>
         <a href="/members/johann_petrak"><img src="/images/PetrakJohann1.jpg"  width="500em" height="900em" style="object-fit: scale-down !important;"  /></a>
       
       <p>

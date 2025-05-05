@@ -15,7 +15,7 @@ language: de
 
 ### Aktive Mitglieder
 
-* Sanghee Cheong
+* [Sanghee Cheong](/members/sanghee_cheong)
 * Gergely Hajdu
 * [Xuning Han](/members/xuning_han)
 * [Gregor Horvath](/members/gregor_horvath)
