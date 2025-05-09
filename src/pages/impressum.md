@@ -20,7 +20,7 @@ Konto: AT59 2011 1848 9293 7700, BIC GIBAATWWXXX
 
 Vertretung:
 * Obfrau: Eunju Lee
-* Kassierin: Isabel Weiser
+* Kassierin: Sanghee Cheong
 
 Siehe [Verein "Klavierfreude" Team](/team/)
 
