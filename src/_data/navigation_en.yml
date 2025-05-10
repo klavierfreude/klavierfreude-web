@@ -18,8 +18,8 @@
     url: "/members/"
   - title: "Meetup Group"
     url: /meetup_en/
-  - title: "Email Group"
-    url: "/mailinglist_en/"
+  - title: "Whatsapp-Group"
+    url: "/whatsappgroup_en/"
 
 - title: Events
   url: "/veranstaltungen_en/"
