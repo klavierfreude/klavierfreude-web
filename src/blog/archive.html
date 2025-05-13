@@ -21,7 +21,7 @@ permalink: "blog/archive/"
 		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
 
 		<dl>
-                        {% assign posts = site.posts limit:1000 | sort: 'event_date' | reverse %}
+                        {% assign posts = site.posts | sort: 'event_date' | reverse | limit: 1000 %}
 			{% for post in posts %}
 			<dd >
 			<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
