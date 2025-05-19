@@ -18,8 +18,6 @@
     url: /members/
   - title: "Meetup Gruppe"
     url: /meetup/
-  - title: "Whatsapp-Gruppe"
-    url: /whatsappgroup/
 
 - title: Veranstaltungen
   url: "/veranstaltungen/"
