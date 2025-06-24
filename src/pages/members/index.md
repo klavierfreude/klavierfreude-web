@@ -30,6 +30,7 @@ language: de
 * Mami Tsukio
 * Wuel Wang
 * Kurt Vinzenz
+* Xi Wang
 * Lingge Zhang 
 
 
