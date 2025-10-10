@@ -10,9 +10,8 @@ language: de
 
 ---
 
-### Mami Tsukio 
 
-<a href="/images/TsukioMami.jpg"><img src="/images/TsukioMami.jpg" align="left" width="200px" hspace="10" vspace="10"></a>
+<a href="/images/TsukioMami.jpg"><img src="/images/TsukioMami.jpg" align="left" width="250px" hspace="10" vspace="10"></a>
 
 Geboren in Nagoya (Japan).<br>
 Sie absolvierte das Bachelor- und Masterstudium im Konzertfach Klavier bei Prof.
