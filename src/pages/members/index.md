@@ -27,7 +27,7 @@ language: de
 * Elisabed Mamradze
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
-* Mami Tsukio
+* [Mami Tsukio](/members/mami_tsukio)
 * Wuel Wang
 * Kurt Vinzenz
 * Xi Wang
