@@ -14,6 +14,6 @@ do
      echo Thumbnail $tn already exists for $i
   else
      echo Creating thumbnail $tn for $i
-     convert -thumbnail '300x200>' -gravity center -extent 300x200 "$i" "$tn"
+     convert -thumbnail '300x300>' -gravity center -extent 300x300 -auto-orient "$i" "$tn"
   fi
 done 
