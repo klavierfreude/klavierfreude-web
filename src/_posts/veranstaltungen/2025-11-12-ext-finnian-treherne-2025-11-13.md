@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Filmabende-Einladung von Finnian Treherne, ab 13. Nov. 2025"
+title: "Filmabende-Einladung von Finnian Treherne, 13. Nov. bis 11. Dez. 2025"
 tags:
     - extern-geplant
 header:
   image_fullwidth: /images/header.png
-event_date: 2025-11-15
+event_date: 2025-12-11
 language: de
 
 ---
