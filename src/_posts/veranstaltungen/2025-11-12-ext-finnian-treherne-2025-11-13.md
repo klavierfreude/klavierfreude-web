@@ -30,8 +30,9 @@ Eintritt frei!
 ## Veranstaltungsort
 
 
-<a href="https://www.musicschoolvienna.com/">Arthousekino, Future Art Lab</a><br>
-Anton Webern Platz 1<br>
+<a href="https://www.mdw.ac.at/1740/">Arthousekino, Future Art Lab am mdw-Campus</a><br>
+Bauteil V<br>
+Anton-von-Webern Platz 1<br>
 1030 Wien<br>
 
 <div
