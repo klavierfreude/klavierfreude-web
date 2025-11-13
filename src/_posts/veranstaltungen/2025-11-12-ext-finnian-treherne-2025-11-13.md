@@ -42,4 +42,5 @@ Anton-von-Webern Platz 1<br>
 ></div>
 
 
+<a href="/images/extern/2025-11-13-01.jpg"><img src="/images/extern/2025-11-13-01.jpg"/></a>
 
