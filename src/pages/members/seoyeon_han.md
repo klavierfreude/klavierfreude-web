@@ -19,6 +19,6 @@ language: de
 - CEO der Yeonum Company
 - Leiterin der Daejeon-Niederlassung des Koreanischen Verbandes für Musik- und Kunsterziehung
 - Absolventin des Top Performer Kurses der Fienze Armonia Academy
-- Diplom des Kanadisches Programm für zukünftige Kunstpädagog:innen
+- Diplom des Kanadisches Programms für zukünftige Kunstpädagog:innen
 
 </div></div>
