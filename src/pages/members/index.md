@@ -17,6 +17,7 @@ language: de
 
 * [Sanghee Cheong](/members/sanghee_cheong)
 * Gergely Hajdu
+* [Seo-Yeon Han](/members/seoyeon_han)
 * [Xuning Han](/members/xuning_han)
 * [Gregor Horvath](/members/gregor_horvath)
 * [Lindsey Huff](/members/lindsey_huff)
