@@ -20,14 +20,16 @@ language: de
 * [Seo-Yeon Han](/members/seoyeon_han)
 * [Xuning Han](/members/xuning_han)
 * [Gregor Horvath](/members/gregor_horvath)
+* Sabine Horvath
 * [Lindsey Huff](/members/lindsey_huff)
 * Hana Juric
 * Julianna Kiss
 * Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
-* Elisabed Mamradze
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
+* Christian Steindl
+* Finnian Treherne
 * [Mami Tsukio](/members/mami_tsukio)
 * Wuel Wang
 * Kurt Vinzenz
