@@ -18,5 +18,10 @@ Vernetzungsinitiative von Profi- und Amateurpianist:innen in Wien!
 
 {% include list-posts tag="geplant" emptytxt="Infos zu neuen Klavierfreude-Veranstaltungen folgen ...<br><a href=\"/veranstaltungen\">Alle Veranstaltungen</a>" %}
 
+----
+
+{% include list-posts tag="extern-geplant" emptytxt="" %}
+
+
 
 
