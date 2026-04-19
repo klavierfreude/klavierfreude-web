@@ -27,6 +27,9 @@ Welcome to <b>Klavierfreude</b>, a networking initiative for professional and am
 
 {% include list-posts tag="geplant" sort="reverse" emptytxt="" %}
 
+----
+
+{% include list-posts tag="extern-geplant" emptytxt="" %}
 
 
 
