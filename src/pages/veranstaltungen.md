@@ -14,6 +14,7 @@ language_en: "/veranstaltungen_en/"
 {% include list-posts tag="geplant" emptytxt="Info zur nächsten Veranstaltung folgt..." %}
 
 ----
+Die letzten 5 vergangenen:
 
 {% include list-posts entries=5 tag="vergangen" sort="reverse"  %}
 
@@ -22,6 +23,12 @@ language_en: "/veranstaltungen_en/"
 {% include list-posts tag="extern-geplant" emptytxt="Info zur nächsten Veranstaltung folgt..." %}
 
 ----
+Die letzten 5 vergangenen:
+
+{% include list-posts tag="extern-vergangen" entries=5 sort="reverse" %}
+
+----
+
 
 <div class="medium-2"><a class="button small radius expand" href="https://klavierfreude.at/blog/archive/" title="Archiv">Archiv</a></div>
 
