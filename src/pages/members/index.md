@@ -14,8 +14,10 @@ language: de
 * Univ.-Prof.i.R. Thomas Kreuzberger
 
 ### Aktive Mitglieder
-
+* Jimmy Andre
 * [Sanghee Cheong](/members/sanghee_cheong)
+* Pierre Fares 
+* Finnian Francis
 * Gergely Hajdu
 * [Seo-Yeon Han](/members/seoyeon_han)
 * [Xuning Han](/members/xuning_han)
@@ -26,13 +28,13 @@ language: de
 * Julianna Kiss
 * Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
+* [Mami Tsukio](/members/mami_tsukio)
 * [Johann Petrak](/members/johann_petrak)
 * Gustav Pollack
 * Christian Steindl
 * Finnian Treherne
-* [Mami Tsukio](/members/mami_tsukio)
-* Wuel Wang
 * Kurt Vinzenz
+* Wuel Wang
 * Xi Wang
 * Lingge Zhang 
 
