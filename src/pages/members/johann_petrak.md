@@ -14,7 +14,7 @@ gallery:
   - image_url: /images/johann-petrak/IMG-20240616-WA0000.jpg
   - image_url: /images/2025-03-30-konzert-2025-06-02/IMG_9550.jpeg
   - image_url: /images/2025-09-06-konzert-2025-10-24/IMG-20251024-WA0007.jpg
-
+  - image_url: /images//2026-05-28-konzert-2026-06-14/IMG-20260615-WA0024.jpg
 ---
 
 
