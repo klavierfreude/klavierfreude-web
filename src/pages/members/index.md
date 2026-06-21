@@ -25,7 +25,6 @@ language: de
 * Sabine Horvath
 * [Lindsey Huff](/members/lindsey_huff)
 * Hana Juric
-* Julianna Kiss
 * Greg Kolanek
 * [Eunju Lee](/members/eunju_lee)
 * [Mami Tsukio](/members/mami_tsukio)
@@ -34,7 +33,6 @@ language: de
 * Christian Steindl
 * Finnian Treherne
 * Kurt Vinzenz
-* Wuel Wang
 * Xi Wang
 * Lingge Zhang 
 
